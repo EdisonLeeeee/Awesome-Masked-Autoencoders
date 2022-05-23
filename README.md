@@ -1,5 +1,9 @@
 # Awesome Masked Autoencoders
+
+<p align="center"> <img src="mae.png" /> <p align="center"><em>Fig. 1. Masked Autoencoders from Kaiming He et al..</em></p>
+
 Masked Autoencoder (MAE, Kaiming He et al.) has renewed a surge of interest due to its capacity to learn useful representations from rich unlabeled data. Until recently, MAE and its follow-up works have advanced the state-of-the-art and provided valuable insights in research (particularly vision research). Here I list several follow-up works after or concurrent with MAE, since last year.
+
 
 # Vision
 + [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
@@ -34,7 +38,7 @@ Masked Autoencoder (MAE, Kaiming He et al.) has renewed a surge of interest due 
 # Graph
 + [MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs](https://arxiv.org/abs/2201.02534)
 + [Graph Masked Autoencoder with Transformers](https://arxiv.org/abs/2202.08391)
-+ [MaskGAE: Masked Graph Modeling Meets Graph Autoencoders][https://arxiv.org/abs/2205.10053]
++ [MaskGAE: Masked Graph Modeling Meets Graph Autoencoders](https://arxiv.org/abs/2205.10053)
 
 # Language
 
