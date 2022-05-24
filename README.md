@@ -35,6 +35,7 @@ Masked Autoencoder (MAE, Kaiming He et al.) has renewed a surge of interest due 
 + [What to Hide from Your Students: Attention-Guided Masked Image Modeling](https://arxiv.org/abs/2203.12719)
 + [Uniform Masking: Enabling MAE Pre-training for Pyramid-based Vision Transformers with Locality](https://arxiv.org/abs/2205.10063)
 + [Self-supervised 3D anatomy segmentation using self-distilled masked image transformer (SMIT)](https://arxiv.org/abs/2205.10342)
++ [FaceMAE: Privacy-Preserving Face Recognition via Masked Autoencoders](https://arxiv.org/abs/2205.11090)
 
 # Graph
 + [MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs](https://arxiv.org/abs/2201.02534)
