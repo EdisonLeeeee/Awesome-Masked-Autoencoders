@@ -41,6 +41,7 @@ Masked Autoencoder (MAE, Kaiming He et al.) has renewed a surge of interest due 
 + [MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs](https://arxiv.org/abs/2201.02534)
 + [Graph Masked Autoencoder with Transformers](https://arxiv.org/abs/2202.08391)
 + [MaskGAE: Masked Graph Modeling Meets Graph Autoencoders](https://arxiv.org/abs/2205.10053)
++ [GraphMAE: Self-Supervised Masked Graph Autoencoders](https://arxiv.org/abs/2205.10803)
 
 # Language
 
