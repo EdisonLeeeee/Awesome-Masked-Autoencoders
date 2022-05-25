@@ -1,17 +1,17 @@
 # Awesome Masked Autoencoders
 
-<p align="center"> <img src="mae.png" /> <p align="center"><em>Fig. 1. Masked Autoencoders from Kaiming He et al..</em></p>
+<p align="center"> <img src="mae.png" /> <p align="center"><em>Fig. 1. Masked Autoencoders from Kaiming He et al.</em></p>
 
-Masked Autoencoder (MAE, Kaiming He et al.) has renewed a surge of interest due to its capacity to learn useful representations from rich unlabeled data. Until recently, MAE and its follow-up works have advanced the state-of-the-art and provided valuable insights in research (particularly vision research). Here I list several follow-up works after or concurrent with MAE, since last year.
+Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest due to its capacity to learn useful representations from rich unlabeled data. Until recently, MAE and its follow-up works have advanced the state-of-the-art and provided valuable insights in research (particularly vision research). Here I list several follow-up works after or concurrent with MAE to inspire future research.
 
 
 # Vision
-+ [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
-+ [SimMIM: A Simple Framework for Masked Image Modeling](https://arxiv.org/abs/2111.09886)
++ [🔥Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
++ [🔥SimMIM: A Simple Framework for Masked Image Modeling](https://arxiv.org/abs/2111.09886)
++ [🔥BEIT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)
 + [Student Collaboration Improves Self-Supervised Learning: Dual-Loss Adaptive Masked Autoencoder for Brain Cell Image Analysis](https://arxiv.org/abs/2205.05194)
 + [A Mask-Based Adversarial Defense Scheme](https://arxiv.org/abs/2204.11837)
 + [Adversarial Masking for Self-Supervised Learning](https://arxiv.org/abs/2201.13100)
-+ [BEIT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)
 + [Beyond Masking: Demystifying Token-Based Pre-Training for Vision Transformers](https://arxiv.org/abs/2203.14313)
 + [Context Autoencoder for Self-Supervised Representation Learning](https://arxiv.org/abs/2202.03026)
 + [Contextual Representation Learning beyond Masked Language Modeling](https://arxiv.org/abs/2204.04163)
@@ -45,6 +45,10 @@ Masked Autoencoder (MAE, Kaiming He et al.) has renewed a surge of interest due 
 + [GraphMAE: Self-Supervised Masked Graph Autoencoders](https://arxiv.org/abs/2205.10803)
 
 # Language
+BERT is the first successful application of masked autoencoders. There has been a surge of language research focused on such masking-and-predicting paradigm, so I'm not going to report these works.
 
-Nature Language Processing (NLP) is the first successful application of masked autoencoders. There has been a surge of language research focused on such masking-and-predicting paradigm, so I'm not going to report these works.
+# TODO List
+- [ ] Add code links
+- [ ] Add conference venues
+- [ ] Add more illustrative figures
 
