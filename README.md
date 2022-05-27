@@ -40,6 +40,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation](https://arxiv.org/abs/2205.09853)
 + [Green Hierarchical Vision Transformer for Masked Image Modeling](https://arxiv.org/abs/2205.13515)
 + [Revealing the Dark Secrets of Masked Image Modeling](https://arxiv.org/abs/2205.13543)
++ [MixMIM: Mixed and Masked Image Modeling for Efficient Visual Representation Learning](https://arxiv.org/abs/2205.13137)
 
 # Graph
 + [MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs](https://arxiv.org/abs/2201.02534)
