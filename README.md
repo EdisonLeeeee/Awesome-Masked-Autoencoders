@@ -38,6 +38,8 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [FaceMAE: Privacy-Preserving Face Recognition via Masked Autoencoders](https://arxiv.org/abs/2205.11090)
 + [Deeper vs Wider: A Revisit of Transformer Configuration](https://arxiv.org/abs/2205.10505)
 + [Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation](https://arxiv.org/abs/2205.09853)
++ [Green Hierarchical Vision Transformer for Masked Image Modeling](https://arxiv.org/abs/2205.13515)
++ [Revealing the Dark Secrets of Masked Image Modeling](https://arxiv.org/abs/2205.13543)
 
 # Graph
 + [MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs](https://arxiv.org/abs/2201.02534)
