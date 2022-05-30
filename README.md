@@ -1,9 +1,11 @@
 # Awesome Masked Autoencoders
 
-<p align="center"> <img src="mae.png" /> <p align="center"><em>Fig. 1. Masked Autoencoders from Kaiming He et al.</em></p>
+<p align="center"> <img src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
 Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest due to its capacity to learn useful representations from rich unlabeled data. Until recently, MAE and its follow-up works have advanced the state-of-the-art and provided valuable insights in research (particularly vision research). Here I list several follow-up works after or concurrent with MAE to inspire future research.
 
+
+> *:octocat: code links.
 
 # Vision
 + [🔥Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
@@ -42,13 +44,13 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Revealing the Dark Secrets of Masked Image Modeling](https://arxiv.org/abs/2205.13543)
 + [MixMIM: Mixed and Masked Image Modeling for Efficient Visual Representation Learning](https://arxiv.org/abs/2205.13137)
 + [Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation](https://arxiv.org/abs/2205.14141)
-+ [Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN](https://arxiv.org/abs/2205.13943), [code](https://github.com/Westlake-AI/openmixup)
++ [Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN](https://arxiv.org/abs/2205.13943) [:octocat:](https://github.com/Westlake-AI/openmixup)
 
 # Graph
-+ [MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs](https://arxiv.org/abs/2201.02534), [code](https://github.com/Qiaoyut/MGAE)
++ [MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs](https://arxiv.org/abs/2201.02534) [:octocat:](https://github.com/Qiaoyut/MGAE)
 + [Graph Masked Autoencoder with Transformers](https://arxiv.org/abs/2202.08391)
-+ [MaskGAE: Masked Graph Modeling Meets Graph Autoencoders](https://arxiv.org/abs/2205.10053), [code](https://github.com/EdisonLeeeee/MaskGAE)
-+ [GraphMAE: Self-Supervised Masked Graph Autoencoders](https://arxiv.org/abs/2205.10803), [code](https://github.com/THUDM/GraphMAE)
++ [MaskGAE: Masked Graph Modeling Meets Graph Autoencoders](https://arxiv.org/abs/2205.10053) [:octocat:](https://github.com/EdisonLeeeee/MaskGAE)
++ [GraphMAE: Self-Supervised Masked Graph Autoencoders](https://arxiv.org/abs/2205.10803) [:octocat:](https://github.com/THUDM/GraphMAE)
 
 # Language
 BERT is the first successful application of masked autoencoders. There has been a surge of language research focused on such masking-and-predicting paradigm, so I'm not going to report these works.
