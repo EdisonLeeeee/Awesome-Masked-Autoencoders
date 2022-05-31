@@ -45,6 +45,8 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [MixMIM: Mixed and Masked Image Modeling for Efficient Visual Representation Learning](https://arxiv.org/abs/2205.13137)
 + [Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation](https://arxiv.org/abs/2205.14141)
 + [Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN](https://arxiv.org/abs/2205.13943) [:octocat:](https://github.com/Westlake-AI/openmixup)
++ [SupMAE: Supervised Masked Autoencoders Are Efficient Vision Learners](https://arxiv.org/abs/2205.14540) [:octocat:](https://github.com/cmu-enyac/supmae)
++ [Object-wise Masked Autoencoders for Fast Pre-training](https://arxiv.org/abs/2205.14338)
 
 # Graph
 + [MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs](https://arxiv.org/abs/2201.02534) [:octocat:](https://github.com/Qiaoyut/MGAE)
