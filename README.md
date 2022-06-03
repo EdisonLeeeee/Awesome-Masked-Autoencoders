@@ -23,22 +23,22 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Exploring Plain Vision Transformer Backbones for Object Detection](https://arxiv.org/abs/2203.16527)
 + [Global Contrast Masked Autoencoders Are Powerful Pathological Representation Learners](https://arxiv.org/abs/2205.09048) [:octocat:](https://github.com/StarUniversus/gcmae)
 + [How to Understand Masked Autoencoders](https://arxiv.org/abs/2202.03670)
-+ [iBOT: Image Bert Pre-Training With Online Tokenizer](https://arxiv.org/abs/2111.07832)
++ [iBOT: Image Bert Pre-Training With Online Tokenizer](https://arxiv.org/abs/2111.07832) [:octocat:](https://github.com/bytedance/ibot)
 + [MADE: Masked Autoencoder for Distribution Estimation](https://arxiv.org/abs/1502.03509) [:octocat:](https://github.com/mgermain/MADE)
 + [Mask Transfiner for High-Quality Instance Segmentation](https://arxiv.org/abs/2111.13673) [:octocat:](http://vis.xyz/pub/transfiner)
 + [Masked Autoencoders As Spatiotemporal Learners](https://arxiv.org/abs/2205.09113)
 + [Masked Discrimination for Self-Supervised Learning on Point Clouds](https://arxiv.org/abs/2203.11183) [:octocat:](https://github.com/haotian-liu/MaskPoint)
 + [Masked Feature Prediction for Self-Supervised Visual Pre-Training](https://arxiv.org/abs/2112.09133)
-+ [Masked Image Modeling Advances 3D Medical Image Analysis](https://arxiv.org/abs/2204.11716)
-+ [Masked Siamese Networks for Label-Efficient Learning](https://arxiv.org/abs/2204.07141)
-+ [MaskGIT: Masked Generative Image Transformer](https://arxiv.org/abs/2202.04200)
++ [Masked Image Modeling Advances 3D Medical Image Analysis](https://arxiv.org/abs/2204.11716) 
++ [Masked Siamese Networks for Label-Efficient Learning](https://arxiv.org/abs/2204.07141) [:octocat:](https://github.com/facebookresearch/msn)
++ [MaskGIT: Masked Generative Image Transformer](https://arxiv.org/abs/2202.04200) [:octocat:](https://github.com/google-research/maskgit)
 + [MLIM: Vision-and-Language Model Pre-training with Masked Language and Image Modeling](https://arxiv.org/abs/2109.12178)
 + [SimMC: Simple Masked Contrastive Learning of Skeleton Representations for Unsupervised Person Re-Identification](https://arxiv.org/abs/2204.09826) [:octocat:](https://github.com/Kali-Hac/SimMC)
 + [VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training](https://arxiv.org/abs/2203.12602) [:octocat:](https://github.com/MCG-NJU/VideoMAE)
 + [What to Hide from Your Students: Attention-Guided Masked Image Modeling](https://arxiv.org/abs/2203.12719)
 + [Uniform Masking: Enabling MAE Pre-training for Pyramid-based Vision Transformers with Locality](https://arxiv.org/abs/2205.10063) [:octocat:](https://github.com/implus/UM-MAE)
 + [Self-supervised 3D anatomy segmentation using self-distilled masked image transformer (SMIT)](https://arxiv.org/abs/2205.10342)
-+ [FaceMAE: Privacy-Preserving Face Recognition via Masked Autoencoders](https://arxiv.org/abs/2205.11090)
++ [FaceMAE: Privacy-Preserving Face Recognition via Masked Autoencoders](https://arxiv.org/abs/2205.11090) [:octocat:](https://github.com/kaiwang960112/FaceMAE)
 + [Deeper vs Wider: A Revisit of Transformer Configuration](https://arxiv.org/abs/2205.10505)
 + [Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation](https://arxiv.org/abs/2205.09853) [:octocat:](https://github.com/voletiv/mcvd-pytorch)
 + [Green Hierarchical Vision Transformer for Masked Image Modeling](https://arxiv.org/abs/2205.13515) [:octocat:](https://github.com/LayneH/GreenMIM)
@@ -52,7 +52,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 
 
 # Audio
-+ [MAE-AST: Masked Autoencoding Audio Spectrogram Transformer](https://arxiv.org/abs/2203.16691) [:octocat](https://github.com/AlanBaade/MAE-AST-Public)
++ [MAE-AST: Masked Autoencoding Audio Spectrogram Transformer](https://arxiv.org/abs/2203.16691) [:octocat:](https://github.com/AlanBaade/MAE-AST-Public)
 
 
 # Graph
