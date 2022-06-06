@@ -49,6 +49,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [SupMAE: Supervised Masked Autoencoders Are Efficient Vision Learners](https://arxiv.org/abs/2205.14540) [:octocat:](https://github.com/cmu-enyac/supmae)
 + [Object-wise Masked Autoencoders for Fast Pre-training](https://arxiv.org/abs/2205.14338)
 + [Multimodal Masked Autoencoders Learn Transferable Representations](https://arxiv.org/abs/2205.14204)
++ [MaskOCR: Text Recognition with Masked Encoder-Decoder Pretraining](https://arxiv.org/abs/2206.00311), Pengyuan Lyu, Chengquan Zhang, Shanshan Liu, Meina Qiao, Yangliu Xu, Liang Wu, Kun Yao, Junyu Han, Errui Ding, Jingdong Wang
 
 
 # Audio
@@ -70,6 +71,7 @@ There has been a surge of language research focused on such masking-and-predicti
 
 # TODO List
 - [x] Add code links
+- [ ] Add authers list
 - [ ] Add conference venues
 - [ ] Add more illustrative figures
 
