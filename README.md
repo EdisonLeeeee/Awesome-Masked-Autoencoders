@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-50-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-52-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -22,7 +22,6 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [ConvMAE: Masked Convolution Meets Masked Autoencoders](https://arxiv.org/abs/2205.03892) [:octocat:](https://github.com/Alpha-VL/ConvMAE) Peng Gao, Teli Ma, Hongsheng Li, Ziyi Lin, Jifeng Dai, Yu Qiao
 + [Exploring Plain Vision Transformer Backbones for Object Detection](https://arxiv.org/abs/2203.16527) Yanghao Li, Hanzi Mao, Ross Girshick, Kaiming He
 + [Global Contrast Masked Autoencoders Are Powerful Pathological Representation Learners](https://arxiv.org/abs/2205.09048) [:octocat:](https://github.com/StarUniversus/gcmae) Hao Quan, Xingyu Li, Weixing Chen, Qun Bai, Mingchen Zou, Ruijie Yang, Tingting Zheng, Ruiqun Qi, Xinghua Gao, Xiaoyu Cui
-+ [How to Understand Masked Autoencoders](https://arxiv.org/abs/2202.03670) Shuhao Cao, Peng Xu, David A. Clifton
 + [iBOT: Image Bert Pre-Training With Online Tokenizer](https://arxiv.org/abs/2111.07832) [:octocat:](https://github.com/bytedance/ibot) Jinghao Zhou, Chen Wei, Huiyu Wang, Wei Shen, Cihang Xie, Alan Yuille, Tao Kong
 + [MADE: Masked Autoencoder for Distribution Estimation](https://arxiv.org/abs/1502.03509) [:octocat:](https://github.com/mgermain/MADE) Mathieu Germain, Karol Gregor, Iain Murray, Hugo Larochelle
 + [Mask Transfiner for High-Quality Instance Segmentation](https://arxiv.org/abs/2111.13673) [:octocat:](http://vis.xyz/pub/transfiner) Lei Ke, Martin Danelljan, Xia Li, Yu-Wing Tai, Chi-Keung Tang, Fisher Yu
@@ -52,6 +51,8 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [MaskOCR: Text Recognition with Masked Encoder-Decoder Pretraining](https://arxiv.org/abs/2206.00311) Pengyuan Lyu, Chengquan Zhang, Shanshan Liu, Meina Qiao, Yangliu Xu, Liang Wu, Kun Yao, Junyu Han, Errui Ding, Jingdong Wang
 + [Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation](https://arxiv.org/abs/2206.02777) [:octocat:](https://github.com/IDEACVR/MaskDINO) Feng Li, Hao Zhang, Huaizhe xu, Shilong Liu, Lei Zhang, Lionel M. Ni, Heung-Yeung Shum
 + [Efficient Self-supervised Vision Pretraining with Local Masked Reconstruction](https://arxiv.org/abs/2206.00790) Jun Chen, Ming Hu, Boyang Li, Mohamed Elhoseiny
++ [Masked Unsupervised Self-training for Zero-shot Image Classification](https://arxiv.org/abs/2206.02967) [:octocat:](https://github.com/salesforce/MUST) Junnan Li, Silvio Savarese, Steven C.H. Hoi
+
 
 
 
@@ -71,6 +72,9 @@ There has been a surge of language research focused on such masking-and-predicti
 # Miscellaneous
 + [Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training](https://arxiv.org/abs/2205.14401) [:octocat:](https://github.com/ZrrSkywalker/Point-M2AE) Renrui Zhang, Ziyu Guo, Peng Gao, Rongyao Fang, Bin Zhao, Dong Wang, Yu Qiao, Hongsheng Li
 + [Masked Bayesian Neural Networks : Computation and Optimality](https://arxiv.org/abs/2206.00853) Insung Kong, Dongyoon Yang, Jongjin Lee, Ilsang Ohn, Yongdai Kim
++ [How to Understand Masked Autoencoders](https://arxiv.org/abs/2202.03670) Shuhao Cao, Peng Xu, David A. Clifton
++ [Towards Understanding Why Mask-Reconstruction Pretraining Helps in Downstream Tasks](https://arxiv.org/abs/2206.03826) Jiachun Pan, Pan Zhou, Shuicheng Yan
+
 
 
 # TODO List
