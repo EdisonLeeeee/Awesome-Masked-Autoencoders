@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-52-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-53-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -52,6 +52,9 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation](https://arxiv.org/abs/2206.02777) [:octocat:](https://github.com/IDEACVR/MaskDINO) Feng Li, Hao Zhang, Huaizhe xu, Shilong Liu, Lei Zhang, Lionel M. Ni, Heung-Yeung Shum
 + [Efficient Self-supervised Vision Pretraining with Local Masked Reconstruction](https://arxiv.org/abs/2206.00790) Jun Chen, Ming Hu, Boyang Li, Mohamed Elhoseiny
 + [Masked Unsupervised Self-training for Zero-shot Image Classification](https://arxiv.org/abs/2206.02967) [:octocat:](https://github.com/salesforce/MUST) Junnan Li, Silvio Savarese, Steven C.H. Hoi
++ [On Data Scaling in Masked Image Modeling](https://arxiv.org/abs/2206.04664) Zhenda Xie, Zheng Zhang, Yue Cao, Yutong Lin, Yixuan Wei, Qi Dai, Han Hu
++ [Draft-and-Revise: Effective Image Generation with Contextual RQ-Transformer](https://arxiv.org/abs/2206.04452) [:octocat:](https://github.com/kakaobrain/rq-vae-transformer) Doyup Lee, Chiheon Kim, Saehoon Kim, Minsu Cho, Wook-Shin Han
+
 
 
 
