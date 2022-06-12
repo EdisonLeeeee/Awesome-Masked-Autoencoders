@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-55-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-56-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -55,6 +55,8 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [On Data Scaling in Masked Image Modeling](https://arxiv.org/abs/2206.04664) Zhenda Xie, Zheng Zhang, Yue Cao, Yutong Lin, Yixuan Wei, Qi Dai, Han Hu
 + [Draft-and-Revise: Effective Image Generation with Contextual RQ-Transformer](https://arxiv.org/abs/2206.04452) [:octocat:](https://github.com/kakaobrain/rq-vae-transformer) Doyup Lee, Chiheon Kim, Saehoon Kim, Minsu Cho, Wook-Shin Han
 + [Layered Depth Refinement with Mask Guidance](https://arxiv.org/abs/2206.03048) [:octocat:](https://sooyekim.github.io/MaskDepth/) Soo Ye Kim, Jianming Zhang, Simon Niklaus, Yifei Fan, Simon Chen, Zhe Lin, Munchurl Kim
++ [MVP: Multimodality-guided Visual Pre-training](https://arxiv.org/abs/2203.05175) Longhui Wei, Lingxi Xie, Wengang Zhou, Houqiang Li, Qi Tian
+
 
 
 
