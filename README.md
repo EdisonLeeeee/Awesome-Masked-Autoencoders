@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-59-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-61-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -58,7 +58,9 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [MVP: Multimodality-guided Visual Pre-training](https://arxiv.org/abs/2203.05175) Longhui Wei, Lingxi Xie, Wengang Zhou, Houqiang Li, Qi Tian
 + [Masked Autoencoders are Robust Data Augmentors](https://arxiv.org/abs/2206.04846) [:octocat:](https://github.com/haohang96/MRA) Haohang Xu, Shuangrui Ding, Xiaopeng Zhang, Hongkai Xiong, Qi Tian
 + [Discovering Object Masks with Transformers for Unsupervised Semantic Segmentation](https://arxiv.org/abs/2206.06363) [:octocat:](https://github.com/wvangansbeke/MaskDistill) Wouter Van Gansbeke, Simon Vandenhende, Luc Van Gool
-+ [Masked Frequency Modeling for Self-Supervised Visual Pre-Training](https://arxiv.org/abs/2206.07706) [:octocat:](https://www.mmlab-ntu.com/project/mfm/index.html) Jiahao Xie,Wei Li,Xiaohang Zhan,Ziwei Liu,Yew Soon Ong,Chen Change Loy
++ [Masked Frequency Modeling for Self-Supervised Visual Pre-Training](https://arxiv.org/abs/2206.07706) [:octocat:](https://www.mmlab-ntu.com/project/mfm/index.html) Jiahao Xie, Wei Li, Xiaohang Zhan, Ziwei Liu, Yew Soon Ong, Chen Change Loy
++ [Adapting Self-Supervised Vision Transformers by Probing Attention-Conditioned Masking Consistency](https://arxiv.org/abs/2206.08222) [:octocat:](https://github.com/virajprabhu/PACMAC) Viraj Prabhu, Sriram Yenamandra, Aaditya Singh, Judy Hoffman
++ [OmniMAE: Single Model Masked Pretraining on Images and Videos](https://arxiv.org/abs/2206.08356) [:octocat](https://github.com/facebookresearch/omnivore) Rohit Girdhar, Alaaeldin El-Nouby, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, Ishan Misra
 
 
 
