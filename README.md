@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-61-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-62-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -61,10 +61,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Masked Frequency Modeling for Self-Supervised Visual Pre-Training](https://arxiv.org/abs/2206.07706) [:octocat:](https://www.mmlab-ntu.com/project/mfm/index.html) Jiahao Xie, Wei Li, Xiaohang Zhan, Ziwei Liu, Yew Soon Ong, Chen Change Loy
 + [Adapting Self-Supervised Vision Transformers by Probing Attention-Conditioned Masking Consistency](https://arxiv.org/abs/2206.08222) [:octocat:](https://github.com/virajprabhu/PACMAC) Viraj Prabhu, Sriram Yenamandra, Aaditya Singh, Judy Hoffman
 + [OmniMAE: Single Model Masked Pretraining on Images and Videos](https://arxiv.org/abs/2206.08356) [:octocat](https://github.com/facebookresearch/omnivore) Rohit Girdhar, Alaaeldin El-Nouby, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, Ishan Misra
-
-
-
-
++ [A Unified Framework for Masked and Mask-Free Face Recognition via Feature Rectification](https://arxiv.org/abs/2202.07358) [:octocat:](https://github.com/haoosz/FFR-Net) Shaozhe Hao, Chaofeng Chen, Zhenfang Chen, Kwan-Yee K. Wong
 
 
 
