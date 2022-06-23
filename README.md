@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-65-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-66-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -64,6 +64,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [A Unified Framework for Masked and Mask-Free Face Recognition via Feature Rectification](https://arxiv.org/abs/2202.07358) [:octocat:](https://github.com/haoosz/FFR-Net) Shaozhe Hao, Chaofeng Chen, Zhenfang Chen, Kwan-Yee K. Wong
 + [Integral Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection](https://arxiv.org/abs/2205.09613) Xiaosong Zhang, Feng Liu, Zhiliang Peng, Zonghao Guo, Fang Wan, Xiangyang Ji, Qixiang Ye
 + [SemMAE: Semantic-Guided Masking for Learning Masked Autoencoders](https://arxiv.org/abs/2206.10207) Gang Li, Heliang Zheng, Daqing Liu, Bing Su, Changwen Zheng
++ [Voxel-MAE: Masked Autoencoders for Pre-training Large-scale Point Clouds](https://arxiv.org/abs/2206.09900) [:octocat:](https://github.com/chaytonmin/Voxel-MAE) Chen Min, Dawei Zhao, Liang Xiao, Yiming Nie, Bin Dai
 
 
 
