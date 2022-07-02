@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-69-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-70-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -67,6 +67,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Voxel-MAE: Masked Autoencoders for Pre-training Large-scale Point Clouds](https://arxiv.org/abs/2206.09900) [:octocat:](https://github.com/chaytonmin/Voxel-MAE) Chen Min, Dawei Zhao, Liang Xiao, Yiming Nie, Bin Dai
 + [MaskViT: Masked Visual Pre-Training for Video Prediction](https://arxiv.org/abs/2206.11894) [:octocat:](https://maskedvit.github.io/) Agrim Gupta, Stephen Tian, Yunzhi Zhang, Jiajun Wu, Roberto Martín-Martín, Li Fei-Fei
 + [Masked World Models for Visual Control](https://arxiv.org/abs/2206.14244) [:octocat:](https://sites.google.com/view/mwm-rl) Younggyo Seo, Danijar Hafner, Hao Liu, Fangchen Liu, Stephen James, Kimin Lee, Pieter Abbeel
++ [Masked Autoencoders are Robust Data Augmentors](https://arxiv.org/abs/2206.04846) [:octocat:](https://github.com/haohang96/MRA) Haohang Xu, Shuangrui Ding, Xiaopeng Zhang, Hongkai Xiong, Qi Tian
 
 
 
