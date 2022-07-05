@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-71-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-73-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -69,6 +69,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Masked World Models for Visual Control](https://arxiv.org/abs/2206.14244) [:octocat:](https://sites.google.com/view/mwm-rl) Younggyo Seo, Danijar Hafner, Hao Liu, Fangchen Liu, Stephen James, Kimin Lee, Pieter Abbeel
 + [Masked Autoencoders are Robust Data Augmentors](https://arxiv.org/abs/2206.04846) [:octocat:](https://github.com/haohang96/MRA) Haohang Xu, Shuangrui Ding, Xiaopeng Zhang, Hongkai Xiong, Qi Tian
 + [Masked Autoencoders for Self-Supervised Learning on Automotive Point Clouds](https://arxiv.org/abs/2207.00531) Georg Hess, Johan Jaxing, Elias Svensson, David Hagerman, Christoffer Petersson, Lennart Svensson
++ [Training Vision-Language Transformers from Captions Alone](https://arxiv.org/abs/2205.09256) [:octocat:](https://github.com/guilk/VLC) Liangke Gui, Qiuyuan Huang, Alex Hauptmann, Yonatan Bisk, Jianfeng Gao
 
 
 
@@ -91,6 +92,7 @@ There has been a surge of language research focused on such masking-and-predicti
 + [How to Understand Masked Autoencoders](https://arxiv.org/abs/2202.03670) Shuhao Cao, Peng Xu, David A. Clifton
 + [Towards Understanding Why Mask-Reconstruction Pretraining Helps in Downstream Tasks](https://arxiv.org/abs/2206.03826) Jiachun Pan, Pan Zhou, Shuicheng Yan
 + [MET: Masked Encoding for Tabular Data](https://arxiv.org/abs/2206.08564) Kushal Majmundar, Sachin Goyal, Praneeth Netrapalli, Prateek Jain
++ [Masked Self-Supervision for Remaining Useful Lifetime Prediction in Machine Tools](https://arxiv.org/abs/2207.01219) Haoren Guo, Haiyue Zhu, Jiahui Wang, Vadakkepat Prahlad, Weng Khuen Ho, Tong Heng Lee
 
 
 
