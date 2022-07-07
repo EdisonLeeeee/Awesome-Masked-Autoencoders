@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-73-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-74-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -43,7 +43,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Green Hierarchical Vision Transformer for Masked Image Modeling](https://arxiv.org/abs/2205.13515) [:octocat:](https://github.com/LayneH/GreenMIM) Lang Huang, Shan You, Mingkai Zheng, Fei Wang, Chen Qian, Toshihiko Yamasaki
 + [Revealing the Dark Secrets of Masked Image Modeling](https://arxiv.org/abs/2205.13543) Zhenda Xie, Zigang Geng, Jingcheng Hu, Zheng Zhang, Han Hu, Yue Cao
 + [MixMIM: Mixed and Masked Image Modeling for Efficient Visual Representation Learning](https://arxiv.org/abs/2205.13137) [:octocat:](https://github.com/Sense-X/MixMIM) Jihao Liu, Xin Huang, Yu Liu, Hongsheng Li
-+ [Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation](https://arxiv.org/abs/2205.14141) [:octocat:](https://github.com/SwinTransformer/Feature-Distillation) Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation
++ [Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation](https://arxiv.org/abs/2205.14141) [:octocat:](https://github.com/SwinTransformer/Feature-Distillation) Yixuan Wei, Han Hu, Zhenda Xie, Zheng Zhang, Yue Cao, Jianmin Bao, Dong Chen, Baining Guo
 + [Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN](https://arxiv.org/abs/2205.13943) [:octocat:](https://github.com/Westlake-AI/openmixup) Siyuan Li, Di Wu, Fang Wu, Zelin Zang, Kai Wang, Lei Shang, Baigui Sun, Hao Li, Stan.Z.Li
 + [SupMAE: Supervised Masked Autoencoders Are Efficient Vision Learners](https://arxiv.org/abs/2205.14540) [:octocat:](https://github.com/cmu-enyac/supmae)  Feng Liang, Yangguang Li, Diana Marculescu
 + [Object-wise Masked Autoencoders for Fast Pre-training](https://arxiv.org/abs/2205.14338) Jiantao Wu, Shentong Mo
