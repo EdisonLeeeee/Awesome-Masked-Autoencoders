@@ -70,7 +70,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Masked Autoencoders are Robust Data Augmentors](https://arxiv.org/abs/2206.04846) [:octocat:](https://github.com/haohang96/MRA) Haohang Xu, Shuangrui Ding, Xiaopeng Zhang, Hongkai Xiong, Qi Tian
 + [Masked Autoencoders for Self-Supervised Learning on Automotive Point Clouds](https://arxiv.org/abs/2207.00531) Georg Hess, Johan Jaxing, Elias Svensson, David Hagerman, Christoffer Petersson, Lennart Svensson
 + [Training Vision-Language Transformers from Captions Alone](https://arxiv.org/abs/2205.09256) [:octocat:](https://github.com/guilk/VLC) Liangke Gui, Qiuyuan Huang, Alex Hauptmann, Yonatan Bisk, Jianfeng Gao
-
++ [Masked Generative Distillation](https://arxiv.org/abs/2205.01529) [:octocat:](https://github.com/yzd-v/MGD) Zhendong Yang, Zhe Li, Mingqi Shao, Dachuan Shi, Zehuan Yuan, Chun Yuan
 
 
 # Audio
