@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-79-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-80-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -100,6 +100,8 @@ There has been a surge of language research focused on such masking-and-predicti
 + [Towards Understanding Why Mask-Reconstruction Pretraining Helps in Downstream Tasks](https://arxiv.org/abs/2206.03826) Jiachun Pan, Pan Zhou, Shuicheng Yan
 + [MET: Masked Encoding for Tabular Data](https://arxiv.org/abs/2206.08564) Kushal Majmundar, Sachin Goyal, Praneeth Netrapalli, Prateek Jain
 + [Masked Self-Supervision for Remaining Useful Lifetime Prediction in Machine Tools](https://arxiv.org/abs/2207.01219) Haoren Guo, Haiyue Zhu, Jiahui Wang, Vadakkepat Prahlad, Weng Khuen Ho, Tong Heng Lee
++ [MAR: Masked Autoencoders for Efficient Action Recognition](https://arxiv.org/abs/2207.11660) [:octocat:](https://github.com/alibaba-mmai-research/Masked-Action-Recognition) Zhiwu Qing, Shiwei Zhang, Ziyuan Huang, Xiang Wang, Yuehuan Wang, Yiliang Lv, Changxin Gao, Nong Sang
+
 
 
 
