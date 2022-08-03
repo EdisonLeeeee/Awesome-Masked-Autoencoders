@@ -104,12 +104,9 @@ There has been a surge of language research focused on such masking-and-predicti
 + [MET: Masked Encoding for Tabular Data](https://arxiv.org/abs/2206.08564) Kushal Majmundar, Sachin Goyal, Praneeth Netrapalli, Prateek Jain
 + [Masked Self-Supervision for Remaining Useful Lifetime Prediction in Machine Tools](https://arxiv.org/abs/2207.01219) Haoren Guo, Haiyue Zhu, Jiahui Wang, Vadakkepat Prahlad, Weng Khuen Ho, Tong Heng Lee
 + [MAR: Masked Autoencoders for Efficient Action Recognition](https://arxiv.org/abs/2207.11660) [:octocat:](https://github.com/alibaba-mmai-research/Masked-Action-Recognition) Zhiwu Qing, Shiwei Zhang, Ziyuan Huang, Xiang Wang, Yuehuan Wang, Yiliang Lv, Changxin Gao, Nong Sang
-+ [MeshMAE: Masked Autoencoders for 3D Mesh Data Analysis](https://arxiv.org/abs/2207.10228) [:octocat:github.com/liang3588/MeshMAE] Yaqian Liang, Shanshan Zhao, Baosheng Yu, Jing Zhang, Fazhi He
++ [MeshMAE: Masked Autoencoders for 3D Mesh Data Analysis](https://arxiv.org/abs/2207.10228) [:octocat:](https://github.com/liang3588/MeshMAE) Yaqian Liang, Shanshan Zhao, Baosheng Yu, Jing Zhang, Fazhi He
++ [A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion](https://arxiv.org/abs/2207.07381) [:octocat:](https://github.com/HKBU-VSComputing/2022_MM_DMAE-Mocap) Junkun Jiang, Jie Chen, Yike Guo
 + [Survey] [A Survey on Masked Autoencoder for Self-supervised Learning in Vision and Beyond](https://arxiv.org/abs/2208.00173) Chaoning Zhang, Chenshuang Zhang, Junha Song, John Seon Keun Yi, Kang Zhang, In So Kweon
-
-
-
-
 
 
 # TODO List
