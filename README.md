@@ -78,6 +78,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Masked Discrimination for Self-Supervised Learning on Point Clouds](https://arxiv.org/abs/2203.11183) [:octocat:](https://github.com/haotian-liu/MaskPoint) Haotian Liu, Mu Cai, Yong Jae Lee
 + [SdAE: Self-distillated Masked Autoencoder](https://arxiv.org/abs/2208.00449) [:octocat:](https://github.com/AbrahamYabo/SdAE) Yabo Chen, Yuchen Liu, Dongsheng Jiang, Xiaopeng Zhang, Wenrui Dai, Hongkai Xiong, Qi Tian
 + [Less is More: Consistent Video Depth Estimation with Masked Frames Modeling](https://arxiv.org/abs/2208.00380) Yiran Wang, Zhiyu Pan, Xingyi Li, Zhiguo Cao, Ke Xian, Jianming Zhang
++ [Masked Vision and Language Modeling for Multi-modal Representation Learning](https://arxiv.org/abs/2208.02131) Gukyeong Kwon, Zhaowei Cai, Avinash Ravichandran, Erhan Bas, Rahul Bhotika, Stefano Soatto
 
 
 
