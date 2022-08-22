@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-91-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-92-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -84,6 +84,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers](https://arxiv.org/abs/2208.06366) [:octocat:](https://github.com/microsoft/unilm/tree/master/beit) Zhiliang Peng, Li Dong, Hangbo Bao, Qixiang Ye, Furu Wei
 + [MILAN: Masked Image Pretraining on Language Assisted Representation](https://arxiv.org/abs/2208.06049) [:octocat:](https://github.com/zejiangh/MILAN) Zejiang Hou, Fei Sun, Yen-Kuang Chen, Yuan Xie, Sun-Yuan Kung
 + [Open-Vocabulary Panoptic Segmentation with MaskCLIP](https://arxiv.org/abs/2208.08984) Zheng Ding, Jieke Wang, Zhuowen Tu
++ [VLMAE: Vision-Language Masked Autoencoder](https://arxiv.org/abs/2208.09374) Sunan He, Taian Guo, Tao Dai, Ruizhi Qiao, Chen Wu, Xiujun Shu, Bo Ren
 
 
 
