@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-93-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-95-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -85,6 +85,9 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [MILAN: Masked Image Pretraining on Language Assisted Representation](https://arxiv.org/abs/2208.06049) [:octocat:](https://github.com/zejiangh/MILAN) Zejiang Hou, Fei Sun, Yen-Kuang Chen, Yuan Xie, Sun-Yuan Kung
 + [Open-Vocabulary Panoptic Segmentation with MaskCLIP](https://arxiv.org/abs/2208.08984) Zheng Ding, Jieke Wang, Zhuowen Tu
 + [VLMAE: Vision-Language Masked Autoencoder](https://arxiv.org/abs/2208.09374) Sunan He, Taian Guo, Tao Dai, Ruizhi Qiao, Chen Wu, Xiujun Shu, Bo Ren
++ [MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining](https://arxiv.org/abs/2208.12262) Xiaoyi Dong, Yinglin Zheng, Jianmin Bao, Ting Zhang, Dongdong Chen, Hao Yang, Ming Zeng, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu
++ [Masked Autoencoders Enable Efficient Knowledge Distillers](https://arxiv.org/abs/2208.12256) [:octocat:](https://github.com/UCSC-VLAA/DMAE) Yutong Bai, Zeyu Wang, Junfei Xiao, Chen Wei, Huiyu Wang, Alan Yuille, Yuyin Zhou, Cihang Xie
+
 
 
 
