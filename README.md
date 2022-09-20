@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-97-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-99-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -88,6 +88,8 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining](https://arxiv.org/abs/2208.12262) Xiaoyi Dong, Yinglin Zheng, Jianmin Bao, Ting Zhang, Dongdong Chen, Hao Yang, Ming Zeng, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu
 + [Masked Autoencoders Enable Efficient Knowledge Distillers](https://arxiv.org/abs/2208.12256) [:octocat:](https://github.com/UCSC-VLAA/DMAE) Yutong Bai, Zeyu Wang, Junfei Xiao, Chen Wei, Huiyu Wang, Alan Yuille, Yuyin Zhou, Cihang Xie
 + [Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training](https://arxiv.org/abs/2209.07098) [:octocat:](https://github.com/zhjohnchan/M3AE) Zhihong Chen, Yuhao Du, Jinpeng Hu, Yang Liu, Guanbin Li, Xiang Wan, Tsung-Hui Chang
++ [MetaMask: Revisiting Dimensional Confounder for Self-Supervised Learning](https://arxiv.org/abs/2209.07902) [:octocat:](https://github.com/lionellee9089/MetaMask) Jiangmeng Li, Wenwen Qiang, Yanan Zhang, Wenyi Mo, Changwen Zheng, Bing Su, Hui Xiong
+
 
 
 
@@ -125,6 +127,7 @@ There has been a surge of language research focused on such masking-and-predicti
 + [MeshMAE: Masked Autoencoders for 3D Mesh Data Analysis](https://arxiv.org/abs/2207.10228) [:octocat:](https://github.com/liang3588/MeshMAE) Yaqian Liang, Shanshan Zhao, Baosheng Yu, Jing Zhang, Fazhi He
 + [A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion](https://arxiv.org/abs/2207.07381) [:octocat:](https://github.com/HKBU-VSComputing/2022_MM_DMAE-Mocap) Junkun Jiang, Jie Chen, Yike Guo
 + [Survey] [A Survey on Masked Autoencoder for Self-supervised Learning in Vision and Beyond](https://arxiv.org/abs/2208.00173) Chaoning Zhang, Chenshuang Zhang, Junha Song, John Seon Keun Yi, Kang Zhang, In So Kweon
++ [Masked Imitation Learning: Discovering Environment-Invariant Modalities in Multimodal Demonstrations](https://arxiv.org/abs/2209.07682) [:octocat:](https://sites.google.com/view/mask-imitation-learning) Yilun Hao, Ruinan Wang, Zhangjie Cao, Zihan Wang, Yuchen Cui, Dorsa Sadigh
 
 
 # TODO List
