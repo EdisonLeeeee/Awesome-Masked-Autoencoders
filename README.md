@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-99-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-100-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -89,6 +89,8 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Masked Autoencoders Enable Efficient Knowledge Distillers](https://arxiv.org/abs/2208.12256) [:octocat:](https://github.com/UCSC-VLAA/DMAE) Yutong Bai, Zeyu Wang, Junfei Xiao, Chen Wei, Huiyu Wang, Alan Yuille, Yuyin Zhou, Cihang Xie
 + [Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training](https://arxiv.org/abs/2209.07098) [:octocat:](https://github.com/zhjohnchan/M3AE) Zhihong Chen, Yuhao Du, Jinpeng Hu, Yang Liu, Guanbin Li, Xiang Wan, Tsung-Hui Chang
 + [MetaMask: Revisiting Dimensional Confounder for Self-Supervised Learning](https://arxiv.org/abs/2209.07902) [:octocat:](https://github.com/lionellee9089/MetaMask) Jiangmeng Li, Wenwen Qiang, Yanan Zhang, Wenyi Mo, Changwen Zheng, Bing Su, Hui Xiong
++ [NamedMask: Distilling Segmenters from Complementary Foundation Models](https://arxiv.org/abs/2209.11228) [:octocat:](https://github.com/NoelShin/namedmask) Gyungin Shin, Weidi Xie, Samuel Albanie
+
 
 
 
