@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-102-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-103-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -124,7 +124,7 @@ There has been a surge of language research focused on such masking-and-predicti
 + [A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion](https://arxiv.org/abs/2207.07381) [:octocat:](https://github.com/HKBU-VSComputing/2022_MM_DMAE-Mocap) Junkun Jiang, Jie Chen, Yike Guo
 + [Survey] [A Survey on Masked Autoencoder for Self-supervised Learning in Vision and Beyond](https://arxiv.org/abs/2208.00173) Chaoning Zhang, Chenshuang Zhang, Junha Song, John Seon Keun Yi, Kang Zhang, In So Kweon
 + [Masked Imitation Learning: Discovering Environment-Invariant Modalities in Multimodal Demonstrations](https://arxiv.org/abs/2209.07682) [:octocat:](https://sites.google.com/view/mask-imitation-learning) Yilun Hao, Ruinan Wang, Zhangjie Cao, Zihan Wang, Yuchen Cui, Dorsa Sadigh
-
++ [Real-World Robot Learning with Masked Visual Pre-training](https://arxiv.org/abs/2210.03109) [:octocat:](https://tetexiao.com/projects/real-mvp) Ilija Radosavovic, Tete Xiao, Stephen James, Pieter Abbeel, Jitendra Malik, Trevor Darrell
 
 # TODO List
 - [x] Add code links
