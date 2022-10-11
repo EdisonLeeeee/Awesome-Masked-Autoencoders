@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-107-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-108-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -94,6 +94,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Self-Supervised Masked Convolutional Transformer Block for Anomaly Detection](https://arxiv.org/abs/2209.12148) [:octocat:](https://github.com/ristea/ssmctb) Neelu Madan, Nicolae-Catalin Ristea, Radu Tudor Ionescu, Kamal Nasrollahi, Fahad Shahbaz Khan, Thomas B. Moeslund, Mubarak Shah
 + [Exploring The Role of Mean Teachers in Self-supervised Masked Auto-Encoders](https://arxiv.org/abs/2210.02077) Youngwan Lee, Jeffrey Willette, Jonghee Kim, Juho Lee, Sung Ju Hwang
 + [Self-Distillation for Further Pre-training of Transformers](https://arxiv.org/abs/2210.02871) Seanie Lee, Minki Kang, Juho Lee, Sung Ju Hwang, Kenji Kawaguchi
++ [MAMO: Masked Multimodal Modeling for Fine-Grained Vision-Language Representation Learning](https://arxiv.org/abs/2210.04183) Zijia Zhao, Longteng Guo, Xingjian He, Shuai Shao, Zehuan Yuan, Jing Liu
 
 
 
