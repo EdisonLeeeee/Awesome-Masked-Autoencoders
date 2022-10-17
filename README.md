@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-113-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-115-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -100,10 +100,8 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Denoising Masked AutoEncoders are Certifiable Robust Vision Learners](https://arxiv.org/abs/2210.06983) [:octocat:](https://github.com/quanlin-wu/dmae) Quanlin Wu, Hang Ye, Yuntian Gu, Huishuai Zhang, Liwei Wang, Di He
 + [M3Video: Masked Motion Modeling for Self-Supervised Video Representation Learning](https://arxiv.org/abs/2210.06096) Xinyu Sun, Peihao Chen, Liangwei Chen, Thomas H. Li, Mingkui Tan, Chuang Gan
 + [Ensemble Learning using Transformers and Convolutional Networks for Masked Face Recognition](https://arxiv.org/abs/2210.04816) [:octocat:](https://github.com/Hamzah-Luqman/MFR) Mohammed R. Al-Sinan, Aseel F. Haneef, Hamzah Luqman
-
-
-
-
++ [MOVE: Unsupervised Movable Object Segmentation and Detection](https://arxiv.org/abs/2210.07920) Adam Bielski, Paolo Favaro
++ [Denoising Masked AutoEncoders are Certifiable Robust Vision Learners](https://arxiv.org/abs/2210.06983) [:octocat:](https://github.com/quanlin-wu/dmae) Quanlin Wu, Hang Ye, Yuntian Gu, Huishuai Zhang, Liwei Wang, Di He
 
 
 
