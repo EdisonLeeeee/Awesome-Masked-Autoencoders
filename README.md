@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-119-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-120-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -104,7 +104,9 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Denoising Masked AutoEncoders are Certifiable Robust Vision Learners](https://arxiv.org/abs/2210.06983) [:octocat:](https://github.com/quanlin-wu/dmae) Quanlin Wu, Hang Ye, Yuntian Gu, Huishuai Zhang, Liwei Wang, Di He
 + [How Mask Matters: Towards Theoretical Understandings of Masked Autoencoders](https://arxiv.org/abs/2210.08344) [:octocat:](https://github.com/zhangq327/U-MAE) Qi Zhang, Yifei Wang, Yisen Wang
 + [MultiMAE: Multi-modal Multi-task Masked Autoencoders](https://arxiv.org/abs/2204.01678) [:octocat:](https://github.com/EPFL-VILAB/MultiMAE) [🌐](https://multimae.epfl.ch/) Roman Bachmann, David Mizrahi, Andrei Atanov, Amir Zamir
++ [A Unified View of Masked Image Modeling](https://arxiv.org/abs/2210.10615) [:octocat:](https://github.com/microsoft/unilm/tree/master/unimim) Zhiliang Peng, Li Dong, Hangbo Bao, Qixiang Ye, Furu Wei
 
+ 
 
 
 
