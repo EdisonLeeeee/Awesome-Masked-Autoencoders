@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-122-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-123-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -107,13 +107,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [A Unified View of Masked Image Modeling](https://arxiv.org/abs/2210.10615) [:octocat:](https://github.com/microsoft/unilm/tree/master/unimim) Zhiliang Peng, Li Dong, Hangbo Bao, Qixiang Ye, Furu Wei
 + [i-MAE: Are Latent Representations in Masked Autoencoders Linearly Separable?](https://arxiv.org/abs/2210.11470) [:octocat:](https://github.com/vision-learning-acceleration-lab/i-mae) Kevin Zhang, Zhiqiang Shen
 + [MixMask: Revisiting Masked Siamese Self-supervised Learning in Asymmetric Distance](https://arxiv.org/abs/2210.11456) [:octocat:](https://github.com/LightnessOfBeing/MixMask) Kirill Vishniakov, Eric Xing, Zhiqiang Shen
-
-
- 
-
-
-
-
++ [DiffEdit: Diffusion-based semantic image editing with mask guidance](https://arxiv.org/abs/2210.11427) Guillaume Couairon, Jakob Verbeek, Holger Schwenk, Matthieu Cord
 
 # Audio
 + [MAE-AST: Masked Autoencoding Audio Spectrogram Transformer](https://arxiv.org/abs/2203.16691) [:octocat:](https://github.com/AlanBaade/MAE-AST-Public) Alan Baade, Puyuan Peng, David Harwath
