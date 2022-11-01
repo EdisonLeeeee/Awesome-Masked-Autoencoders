@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-124-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-125-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -109,6 +109,8 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [MixMask: Revisiting Masked Siamese Self-supervised Learning in Asymmetric Distance](https://arxiv.org/abs/2210.11456) [:octocat:](https://github.com/LightnessOfBeing/MixMask) Kirill Vishniakov, Eric Xing, Zhiqiang Shen
 + [DiffEdit: Diffusion-based semantic image editing with mask guidance](https://arxiv.org/abs/2210.11427) Guillaume Couairon, Jakob Verbeek, Holger Schwenk, Matthieu Cord
 + [Masked Modeling Duo: Learning Representations by Encouraging Both Networks to Model the Input](https://arxiv.org/abs/2210.14648) Daisuke Niizumi, Daiki Takeuchi, Yasunori Ohishi, Noboru Harada, Kunio Kashino
++ [A simple, efficient and scalable contrastive masked autoencoder for learning visual representations](https://arxiv.org/abs/2210.16870) Shlok Mishra, Joshua Robinson, Huiwen Chang, David Jacobs, Aaron Sarna, Aaron Maschinot, Dilip Krishnan
+
 
 
 # Audio
