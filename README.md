@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-128-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-129-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -112,6 +112,8 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [A simple, efficient and scalable contrastive masked autoencoder for learning visual representations](https://arxiv.org/abs/2210.16870) Shlok Mishra, Joshua Robinson, Huiwen Chang, David Jacobs, Aaron Sarna, Aaron Maschinot, Dilip Krishnan
 + [Siamese Transition Masked Autoencoders as Uniform Unsupervised Visual Anomaly Detector](https://arxiv.org/abs/2211.00349) Haiming Yao, Xue Wang, Wenyong Yu
 + [Bootstrapped Masked Autoencoders for Vision BERT Pretraining](https://arxiv.org/abs/2207.07116v1) [:octocat:](https://github.com/LightDXY/BootMAE) Xiaoyi Dong, Jianmin Bao, Ting Zhang, Dongdong Chen, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu
++ [MaskTune: Mitigating Spurious Correlations by Forcing to Explore](https://arxiv.org/abs/2210.00055) [:octocat:](https://github.com/aliasgharkhani/Masktune) Saeid Asgari Taghanaki, Aliasghar Khani, Fereshte Khani, Ali Gholami, Linh Tran, Ali Mahdavi-Amiri, Ghassan Hamarneh
+
 
 
 
