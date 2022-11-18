@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-130-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-133-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -114,8 +114,9 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Bootstrapped Masked Autoencoders for Vision BERT Pretraining](https://arxiv.org/abs/2207.07116v1) [:octocat:](https://github.com/LightDXY/BootMAE) Xiaoyi Dong, Jianmin Bao, Ting Zhang, Dongdong Chen, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu
 + [MaskTune: Mitigating Spurious Correlations by Forcing to Explore](https://arxiv.org/abs/2210.00055) [:octocat:](https://github.com/aliasgharkhani/Masktune) Saeid Asgari Taghanaki, Aliasghar Khani, Fereshte Khani, Ali Gholami, Linh Tran, Ali Mahdavi-Amiri, Ghassan Hamarneh
 + [Exploring the Limits of Masked Visual Representation Learning at Scale](https://arxiv.org/abs/2211.07636) [:octocat:](https://github.com/baaivision/EVA) Yuxin Fang, Wen Wang, Binhui Xie, Quan Sun, Ledell Wu, Xinggang Wang, Tiejun Huang, Xinlong Wang, Yue Cao
-
-
++ [MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis](https://arxiv.org/abs/2211.09117) [:octocat:](https://github.com/LTH14/mage) Tianhong Li, Huiwen Chang, Shlok Kumar Mishra, Han Zhang, Dina Katabi, Dilip Krishnan
++ [Stare at What You See: Masked Image Modeling without Reconstruction](https://arxiv.org/abs/2211.08887) [:octocat:](https://github.com/OpenPerceptionX/maskalign) Hongwei Xue, Peng Gao, Hongyang Li, Yu Qiao, Hao Sun, Houqiang Li, Jiebo Luo
++ [Mask-based Latent Reconstruction for Reinforcement Learning](https://arxiv.org/abs/2201.12096) [:octocat:](https://github.com/microsoft/Mask-based-Latent-Reconstruction) Tao Yu, Zhizheng Zhang, Cuiling Lan, Yan Lu, Zhibo Chen
 
 
 
