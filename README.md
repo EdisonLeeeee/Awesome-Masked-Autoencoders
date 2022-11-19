@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-133-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-134-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -73,7 +73,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Masked Generative Distillation](https://arxiv.org/abs/2205.01529) [:octocat:](https://github.com/yzd-v/MGD) Zhendong Yang, Zhe Li, Mingqi Shao, Dachuan Shi, Zehuan Yuan, Chun Yuan
 + [k-means Mask Transformer](https://arxiv.org/abs/2207.04044) [:octocat:](https://github.com/google-research/deeplab2) Qihang Yu, Huiyu Wang, Siyuan Qiao, Maxwell Collins, Yukun Zhu, Hatwig Adam, Alan Yuille, Liang-Chieh Chen
 + [Bootstrapped Masked Autoencoders for Vision BERT Pretraining](https://arxiv.org/abs/2207.07116) [:octocat:](https://github.com/LightDXY/BootMAE) Xiaoyi Dong, Jianmin Bao, Ting Zhang, Dongdong Chen, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu
-+ [SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery](https://arxiv.org/abs/2207.08051) Yezhen Cong, Samar Khanna, Chenlin Meng, Patrick Liu, Erik Rozi, Yutong He, Marshall Burke, David B. Lobell, Stefano Ermon
++ [SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery](https://arxiv.org/abs/2207.08051) [:octocat:](https://github.com/sustainlab-group/SatMAE) Yezhen Cong, Samar Khanna, Chenlin Meng, Patrick Liu, Erik Rozi, Yutong He, Marshall Burke, David B. Lobell, Stefano Ermon
 + [Contrastive Masked Autoencoders are Stronger Vision Learners](https://arxiv.org/abs/2207.13532) Zhicheng Huang, Xiaojie Jin, Chengze Lu, Qibin Hou, Ming-Ming Cheng, Dongmei Fu, Xiaohui Shen, Jiashi Feng
 + [Masked Discrimination for Self-Supervised Learning on Point Clouds](https://arxiv.org/abs/2203.11183) [:octocat:](https://github.com/haotian-liu/MaskPoint) Haotian Liu, Mu Cai, Yong Jae Lee
 + [SdAE: Self-distillated Masked Autoencoder](https://arxiv.org/abs/2208.00449) [:octocat:](https://github.com/AbrahamYabo/SdAE) Yabo Chen, Yuchen Liu, Dongsheng Jiang, Xiaopeng Zhang, Wenrui Dai, Hongkai Xiong, Qi Tian
@@ -117,6 +117,8 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis](https://arxiv.org/abs/2211.09117) [:octocat:](https://github.com/LTH14/mage) Tianhong Li, Huiwen Chang, Shlok Kumar Mishra, Han Zhang, Dina Katabi, Dilip Krishnan
 + [Stare at What You See: Masked Image Modeling without Reconstruction](https://arxiv.org/abs/2211.08887) [:octocat:](https://github.com/OpenPerceptionX/maskalign) Hongwei Xue, Peng Gao, Hongyang Li, Yu Qiao, Hao Sun, Houqiang Li, Jiebo Luo
 + [Mask-based Latent Reconstruction for Reinforcement Learning](https://arxiv.org/abs/2201.12096) [:octocat:](https://github.com/microsoft/Mask-based-Latent-Reconstruction) Tao Yu, Zhizheng Zhang, Cuiling Lan, Yan Lu, Zhibo Chen
++ [AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders](https://arxiv.org/abs/2211.09120v1) [:octocat:](https://github.com/wgcban/adamae) Wele Gedara Chaminda Bandara, Naman Patel, Ali Gholami, Mehdi Nikkhah, Motilal Agrawal, Vishal M. Patel
+
 
 
 
