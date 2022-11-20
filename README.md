@@ -136,7 +136,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 
 # Graph
 + [MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs](https://arxiv.org/abs/2201.02534) [:octocat:](https://github.com/Qiaoyut/MGAE) Qiaoyu Tan, Ninghao Liu, Xiao Huang, Rui Chen, Soo-Hyun Choi, Xia Hu
-+ [Graph Masked Autoencoder with Transformers](https://arxiv.org/abs/2202.08391) Sixiao Zhang, Hongxu Chen, Haoran Yang, Xiangguo Sun, Philip S. Yu, Guandong Xu
++ [Graph Masked Autoencoder with Transformers](https://arxiv.org/abs/2202.08391) [:octocat:](https://github.com/RinneSz/GMAE) Sixiao Zhang, Hongxu Chen, Haoran Yang, Xiangguo Sun, Philip S. Yu, Guandong Xu
 + [MaskGAE: Masked Graph Modeling Meets Graph Autoencoders](https://arxiv.org/abs/2205.10053) [:octocat:](https://github.com/EdisonLeeeee/MaskGAE) Jintang Li, Ruofan Wu, Wangbin Sun, Liang Chen, Sheng Tian, Liang Zhu, Changhua Meng, Zibin Zheng, Weiqiang Wang
 + [GraphMAE: Self-Supervised Masked Graph Autoencoders](https://arxiv.org/abs/2205.10803) [:octocat:](https://github.com/THUDM/GraphMAE) Zhenyu Hou, Xiao Liu, Yukuo Cen, Yuxiao Dong, Hongxia Yang, Chunjie Wang, Jie Tang
 + [Heterogeneous Graph Masked Autoencoders](https://arxiv.org/abs/2208.09957) Yijun Tian, Kaiwen Dong, Chunhui Zhang, Chuxu Zhang, Nitesh V. Chawla
