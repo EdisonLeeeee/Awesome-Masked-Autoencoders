@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-136-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-137-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -119,6 +119,8 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Mask-based Latent Reconstruction for Reinforcement Learning](https://arxiv.org/abs/2201.12096) [:octocat:](https://github.com/microsoft/Mask-based-Latent-Reconstruction) Tao Yu, Zhizheng Zhang, Cuiling Lan, Yan Lu, Zhibo Chen
 + [AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders](https://arxiv.org/abs/2211.09120v1) [:octocat:](https://github.com/wgcban/adamae) Wele Gedara Chaminda Bandara, Naman Patel, Ali Gholami, Mehdi Nikkhah, Motilal Agrawal, Vishal M. Patel
 + [Efficient Video Representation Learning via Masked Video Modeling with Motion-centric Token Selection](https://arxiv.org/abs/2211.10636) Sunil Hwang, Jaehong Yoon, Youngwan Lee, Sung Ju Hwang
++ [Contrastive Masked Autoencoders for Self-Supervised Video Hashing](https://arxiv.org/abs/2211.11210) [:octocat:](https://github.com/huangmozhi9527/ConMH) Yuting Wang, Jinpeng Wang, Bin Chen, Ziyun Zeng, Shutao Xia
+
 
 
 
