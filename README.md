@@ -1,12 +1,12 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-137-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-138-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
 Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest due to its capacity to learn useful representations from rich unlabeled data. Until recently, MAE and its follow-up works have advanced the state-of-the-art and provided valuable insights in research (particularly vision research). Here I list several follow-up works after or concurrent with MAE to inspire future research.
 
 
-> *:octocat: code links.
+> *:octocat: code link, 🌐 project page
 
 # Vision
 + [🔥Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) [:octocat:](https://github.com/FlyEgle/MAE-pytorch) [:octocat:](https://github.com/pengzhiliang/MAE-pytorch) Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollár, Ross Girshick
@@ -120,6 +120,8 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders](https://arxiv.org/abs/2211.09120v1) [:octocat:](https://github.com/wgcban/adamae) Wele Gedara Chaminda Bandara, Naman Patel, Ali Gholami, Mehdi Nikkhah, Motilal Agrawal, Vishal M. Patel
 + [Efficient Video Representation Learning via Masked Video Modeling with Motion-centric Token Selection](https://arxiv.org/abs/2211.10636) Sunil Hwang, Jaehong Yoon, Youngwan Lee, Sung Ju Hwang
 + [Contrastive Masked Autoencoders for Self-Supervised Video Hashing](https://arxiv.org/abs/2211.11210) [:octocat:](https://github.com/huangmozhi9527/ConMH) Yuting Wang, Jinpeng Wang, Bin Chen, Ziyun Zeng, Shutao Xia
++ [MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation](https://arxiv.org/abs/2205.09853) [🌐](https://mask-cond-video-diffusion.github.io/) [:octocat:](https://github.com/voletiv/mcvd-pytorch) Vikram Voleti, Alexia Jolicoeur-Martineau, Christopher Pal
+
 
 
 
