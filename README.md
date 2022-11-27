@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-138-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-144-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -146,6 +146,9 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [MaskGAE: Masked Graph Modeling Meets Graph Autoencoders](https://arxiv.org/abs/2205.10053) [:octocat:](https://github.com/EdisonLeeeee/MaskGAE) Jintang Li, Ruofan Wu, Wangbin Sun, Liang Chen, Sheng Tian, Liang Zhu, Changhua Meng, Zibin Zheng, Weiqiang Wang
 + [GraphMAE: Self-Supervised Masked Graph Autoencoders](https://arxiv.org/abs/2205.10803) [:octocat:](https://github.com/THUDM/GraphMAE) Zhenyu Hou, Xiao Liu, Yukuo Cen, Yuxiao Dong, Hongxia Yang, Chunjie Wang, Jie Tang
 + [Heterogeneous Graph Masked Autoencoders](https://arxiv.org/abs/2208.09957) Yijun Tian, Kaiwen Dong, Chunhui Zhang, Chuxu Zhang, Nitesh V. Chawla
++ [Graph Masked Autoencoder Enhanced Predictor for Neural Architecture Search](https://www.ijcai.org/proceedings/2022/432) [:octocat:](https://github.com/kunjing96/GMAENAS.git) Kun Jing , Jungang Xu, Pengfei Li
++ [Bi-channel Masked Graph Autoencoders for Spatially Resolved Single-cell Transcriptomics Data Imputation](https://openreview.net/pdf?id=LGFbhnR4U33)  Hongzhi Wen, Wei Jin, Jiayuan Ding, Christopher Xu, Yuying Xie, Jiliang Tang
++ [Masked Graph Auto-Encoder Constrained Graph Pooling](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_542.pdf) [:octocat:](https://github.com/liucoo/mgap) Chuang Liu, Yibing Zhan, Xueqi Ma, Dapeng Tao, Bo Du, Wenbin Hu 
 
 # Language (Omitted)
 There has been a surge of language research focused on such masking-and-predicting paradigm, e.g. BERT, so I'm not going to report these works.
