@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-144-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-145-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -121,6 +121,8 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Efficient Video Representation Learning via Masked Video Modeling with Motion-centric Token Selection](https://arxiv.org/abs/2211.10636) Sunil Hwang, Jaehong Yoon, Youngwan Lee, Sung Ju Hwang
 + [Contrastive Masked Autoencoders for Self-Supervised Video Hashing](https://arxiv.org/abs/2211.11210) [:octocat:](https://github.com/huangmozhi9527/ConMH) Yuting Wang, Jinpeng Wang, Bin Chen, Ziyun Zeng, Shutao Xia
 + [MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation](https://arxiv.org/abs/2205.09853) [🌐](https://mask-cond-video-diffusion.github.io/) [:octocat:](https://github.com/voletiv/mcvd-pytorch) Vikram Voleti, Alexia Jolicoeur-Martineau, Christopher Pal
++ [MAEDAY: MAE for few and zero shot AnomalY-Detection](https://arxiv.org/abs/2211.14307) [:octocat:](https://github.com/EliSchwartz/MAEDAY) Eli Schwartz, Assaf Arbelle, Leonid Karlinsky, Sivan Harary, Florian Scheidegger, Sivan Doveh, Raja Giryes
+
 
 
 
