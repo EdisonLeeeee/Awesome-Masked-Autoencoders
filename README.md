@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-148-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-149-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -124,6 +124,8 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [MAEDAY: MAE for few and zero shot AnomalY-Detection](https://arxiv.org/abs/2211.14307) [:octocat:](https://github.com/EliSchwartz/MAEDAY) Eli Schwartz, Assaf Arbelle, Leonid Karlinsky, Sivan Harary, Florian Scheidegger, Sivan Doveh, Raja Giryes
 + [What's Behind the Mask: Estimating Uncertainty in Image-to-Image Problems](https://arxiv.org/abs/2211.15211) Gilad Kutiel, Regev Cohen, Michael Elad, Daniel Freedman
 + [Good helper is around you: Attention-driven Masked Image Modeling](https://arxiv.org/abs/2211.15362) Jie Gui, Zhengqi Liu, Hao Luo
++ [Scaling Language-Image Pre-training via Masking](https://arxiv.org/abs/2212.00794) Yanghao Li, Haoqi Fan, Ronghang Hu, Christoph Feichtenhofer, Kaiming He
+
 
 
 
