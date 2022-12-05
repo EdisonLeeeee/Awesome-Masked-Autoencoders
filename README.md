@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-149-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-150-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -178,6 +178,8 @@ There has been a surge of language research focused on such masking-and-predicti
 + [Self-supervised Video Representation Learning with Motion-Aware Masked Autoencoders](https://arxiv.org/abs/2210.04154) [:octocat:](https://github.com/happy-hsy/MotionMAE) Haosen Yang, Deng Huang, Bin Wen, Jiannan Wu, Hongxun Yao, Yi Jiang, Xiatian Zhu, Zehuan Yuan
 + [MAEEG: Masked Auto-encoder for EEG Representation Learning](https://arxiv.org/abs/2211.02625) Hsiang-Yun Sherry Chien, Hanlin Goh, Christopher M. Sandino, Joseph Y. Cheng
 + [Masked Autoencoding for Scalable and Generalizable Decision Making](https://arxiv.org/abs/2211.12740) [:octocat:](https://github.com/FangchenLiu/MaskDP_public) Fangchen Liu, Hao Liu, Aditya Grover, Pieter Abbeel
++ [MHCCL: Masked Hierarchical Cluster-wise Contrastive Learning for Multivariate Time Series](https://arxiv.org/abs/2212.01141) [:octocat:](https://github.com/mqwfrog/MHCCL) Qianwen Meng, Hangwei Qian, Yong Liu, Yonghui Xu, Zhiqi Shen, Lizhen Cui
+
 
 
 
