@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-150-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-153-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -125,16 +125,9 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [What's Behind the Mask: Estimating Uncertainty in Image-to-Image Problems](https://arxiv.org/abs/2211.15211) Gilad Kutiel, Regev Cohen, Michael Elad, Daniel Freedman
 + [Good helper is around you: Attention-driven Masked Image Modeling](https://arxiv.org/abs/2211.15362) Jie Gui, Zhengqi Liu, Hao Luo
 + [Scaling Language-Image Pre-training via Masking](https://arxiv.org/abs/2212.00794) Yanghao Li, Haoqi Fan, Ronghang Hu, Christoph Feichtenhofer, Kaiming He
-
-
-
-
-
-
-
-
-
-
++ [Learning Imbalanced Data with Vision Transformers](https://arxiv.org/abs/2212.02015) [:octocat:](https://github.com/XuZhengzhuo/LiVT) Zhengzhuo Xu, Ruikang Liu, Shuo Yang, Zenghao Chai, Chun Yuan
++ [Masked Contrastive Pre-Training for Efficient Video-Text Retrieval](https://arxiv.org/abs/2212.00986) Fangxun Shu, Biaolong Chen, Yue Liao, Shuwen Xiao, Wenyu Sun, Xiaobo Li, Yousong Zhu, Jinqiao Wang, Si Liu
++ [MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation](https://arxiv.org/abs/2212.01322) [:octocat:](https://github.com/lhoyer/MIC) Lukas Hoyer, Dengxin Dai, Haoran Wang, Luc Van Gool
 
 
 # Audio
