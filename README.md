@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-157-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-161-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -129,6 +129,11 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Masked Contrastive Pre-Training for Efficient Video-Text Retrieval](https://arxiv.org/abs/2212.00986) Fangxun Shu, Biaolong Chen, Yue Liao, Shuwen Xiao, Wenyu Sun, Xiaobo Li, Yousong Zhu, Jinqiao Wang, Si Liu
 + [MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation](https://arxiv.org/abs/2212.01322) [:octocat:](https://github.com/lhoyer/MIC) Lukas Hoyer, Dengxin Dai, Haoran Wang, Luc Van Gool
 + [Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning](https://arxiv.org/abs/2212.04500) [🌐](https://github.com/ruiwang2021/mvd) Rui Wang, Dongdong Chen, Zuxuan Wu, Yinpeng Chen, Xiyang Dai, Mengchen Liu, Lu Yuan, Yu-Gang Jiang
++ [MAGVIT: Masked Generative Video Transformer](https://arxiv.org/abs/2212.05199) [🌐](https://magvit.cs.cmu.edu/) Lijun Yu, Yong Cheng, Kihyuk Sohn, José Lezama, Han Zhang, Huiwen Chang, Alexander G. Hauptmann, Ming-Hsuan Yang, Yuan Hao, Irfan Essa, Lu Jiang
++ [FastMIM: Expediting Masked Image Modeling Pre-training for Vision](https://arxiv.org/abs/2212.06593) [:octocat:](https://github.com/ggjy/FastMIM.pytorch) Jianyuan Guo, Kai Han, Han Wu, Yehui Tang, Yunhe Wang, Chang Xu
++ [Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders](https://arxiv.org/abs/2212.06785) [:octocat:](https://github.com/ZrrSkywalker/I2P-MAE) Renrui Zhang, Liuhui Wang, Yu Qiao, Peng Gao, Hongsheng Li
+
+
 
 
 
@@ -177,6 +182,7 @@ There has been a surge of language research focused on such masking-and-predicti
 + [Masked Autoencoding for Scalable and Generalizable Decision Making](https://arxiv.org/abs/2211.12740) [:octocat:](https://github.com/FangchenLiu/MaskDP_public) Fangchen Liu, Hao Liu, Aditya Grover, Pieter Abbeel
 + [MHCCL: Masked Hierarchical Cluster-wise Contrastive Learning for Multivariate Time Series](https://arxiv.org/abs/2212.01141) [:octocat:](https://github.com/mqwfrog/MHCCL) Qianwen Meng, Hangwei Qian, Yong Liu, Yonghui Xu, Zhiqi Shen, Lizhen Cui
 + [GD-MAE: Generative Decoder for MAE Pre-training on LiDAR Point Clouds](https://arxiv.org/abs/2212.03010) [:octocat:](https://github.com/Nightmare-n/GD-MAE) Honghui Yang, Tong He, Jiaheng Liu, Hua Chen, Boxi Wu, Binbin Lin, Xiaofei He, Wanli Ouyang
++ [MAELi -- Masked Autoencoder for Large-Scale LiDAR Point Clouds](https://arxiv.org/abs/2212.07207) Georg Krispel, David Schinagl, Christian Fruhwirth-Reisinger, Horst Possegger, Horst Bischof
 
 
 
