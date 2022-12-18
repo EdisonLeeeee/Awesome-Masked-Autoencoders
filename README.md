@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-161-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-162-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -159,6 +159,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Bi-channel Masked Graph Autoencoders for Spatially Resolved Single-cell Transcriptomics Data Imputation](https://openreview.net/pdf?id=LGFbhnR4U33)  Hongzhi Wen, Wei Jin, Jiayuan Ding, Christopher Xu, Yuying Xie, Jiliang Tang
 + [Masked Graph Auto-Encoder Constrained Graph Pooling](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_542.pdf) [:octocat:](https://github.com/liucoo/mgap) Chuang Liu, Yibing Zhan, Xueqi Ma, Dapeng Tao, Bo Du, Wenbin Hu 
 + [BatmanNet: Bi-branch Masked Graph Transformer Autoencoder for Molecular Representation](https://arxiv.org/abs/2211.13979) Zhen Wang, Zheng Feng, Yanjun Li, Bowen Li, Yongrui Wang, Chulin Sha, Min He, Xiaolin Li
++ [Jointly Learning Visual and Auditory Speech Representations from Raw Data](https://arxiv.org/abs/2212.06246) Alexandros Haliassos, Pingchuan Ma, Rodrigo Mira, Stavros Petridis, Maja Pantic
 
 
 # Language (Omitted)
