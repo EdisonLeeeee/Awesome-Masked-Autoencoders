@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-162-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-163-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -132,6 +132,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [MAGVIT: Masked Generative Video Transformer](https://arxiv.org/abs/2212.05199) [🌐](https://magvit.cs.cmu.edu/) Lijun Yu, Yong Cheng, Kihyuk Sohn, José Lezama, Han Zhang, Huiwen Chang, Alexander G. Hauptmann, Ming-Hsuan Yang, Yuan Hao, Irfan Essa, Lu Jiang
 + [FastMIM: Expediting Masked Image Modeling Pre-training for Vision](https://arxiv.org/abs/2212.06593) [:octocat:](https://github.com/ggjy/FastMIM.pytorch) Jianyuan Guo, Kai Han, Han Wu, Yehui Tang, Yunhe Wang, Chang Xu
 + [Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders](https://arxiv.org/abs/2212.06785) [:octocat:](https://github.com/ZrrSkywalker/I2P-MAE) Renrui Zhang, Liuhui Wang, Yu Qiao, Peng Gao, Hongsheng Li
++ [Efficient Self-supervised Learning with Contextualized Target Representations for Vision, Speech and Language](https://arxiv.org/abs/2212.07525) [:octocat:](https://github.com/facebookresearch/fairseq/tree/main/examples/data2vec) Alexei Baevski, Arun Babu, Wei-Ning Hsu, Michael Auli
 
 
 
