@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-167-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-169-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -134,9 +134,8 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders](https://arxiv.org/abs/2212.06785) [:octocat:](https://github.com/ZrrSkywalker/I2P-MAE) Renrui Zhang, Liuhui Wang, Yu Qiao, Peng Gao, Hongsheng Li
 + [Efficient Self-supervised Learning with Contextualized Target Representations for Vision, Speech and Language](https://arxiv.org/abs/2212.07525) [:octocat:](https://github.com/facebookresearch/fairseq/tree/main/examples/data2vec) Alexei Baevski, Arun Babu, Wei-Ning Hsu, Michael Auli
 + [Swin MAE: Masked Autoencoders for Small Datasets](https://arxiv.org/abs/2212.13805) Zi'an Xu, Yin Dai, Fayu Liu, Weibing Chen, Yue Liu, Lifu Shi, Sheng Liu, Yuhang Zhou
-
-
-
++ [Semi-MAE: Masked Autoencoders for Semi-supervised Vision Transformers](https://arxiv.org/abs/2301.01431) Haojie Yu, Kang Zhao, Xiaoming Xu
++ [MS-DINO: Efficient Distributed Training of Vision Transformer Foundation Model in Medical Domain through Masked Sampling](https://arxiv.org/abs/2301.02064) Sangjoon Park, Ik-Jae Lee, Jun Won Kim, Jong Chul Ye
 
 
 # Audio
