@@ -1,7 +1,7 @@
 # Awesome Masked Autoencoders
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-170-FF6F00" alt="PaperNum"/>
 
-<p align="center"> <img width = "700" height = "380" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
+<p align="center"> <img width = "700" height = "382" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
 Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest due to its capacity to learn useful representations from rich unlabeled data. Until recently, MAE and its follow-up works have advanced the state-of-the-art and provided valuable insights in research (particularly vision research). Here I list several follow-up works after or concurrent with MAE to inspire future research.
 
@@ -67,7 +67,6 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Voxel-MAE: Masked Autoencoders for Pre-training Large-scale Point Clouds](https://arxiv.org/abs/2206.09900) [:octocat:](https://github.com/chaytonmin/Voxel-MAE) Chen Min, Dawei Zhao, Liang Xiao, Yiming Nie, Bin Dai
 + [MaskViT: Masked Visual Pre-Training for Video Prediction](https://arxiv.org/abs/2206.11894) [:octocat:](https://maskedvit.github.io/) Agrim Gupta, Stephen Tian, Yunzhi Zhang, Jiajun Wu, Roberto Martín-Martín, Li Fei-Fei
 + [Masked World Models for Visual Control](https://arxiv.org/abs/2206.14244) [:octocat:](https://sites.google.com/view/mwm-rl) Younggyo Seo, Danijar Hafner, Hao Liu, Fangchen Liu, Stephen James, Kimin Lee, Pieter Abbeel
-+ [Masked Autoencoders are Robust Data Augmentors](https://arxiv.org/abs/2206.04846) [:octocat:](https://github.com/haohang96/MRA) Haohang Xu, Shuangrui Ding, Xiaopeng Zhang, Hongkai Xiong, Qi Tian
 + [Masked Autoencoders for Self-Supervised Learning on Automotive Point Clouds](https://arxiv.org/abs/2207.00531) [:octocat:](https://github.com/georghess/voxel-mae) Georg Hess, Johan Jaxing, Elias Svensson, David Hagerman, Christoffer Petersson, Lennart Svensson
 + [Training Vision-Language Transformers from Captions Alone](https://arxiv.org/abs/2205.09256) [:octocat:](https://github.com/guilk/VLC) Liangke Gui, Qiuyuan Huang, Alex Hauptmann, Yonatan Bisk, Jianfeng Gao
 + [Masked Generative Distillation](https://arxiv.org/abs/2205.01529) [:octocat:](https://github.com/yzd-v/MGD) Zhendong Yang, Zhe Li, Mingqi Shao, Dachuan Shi, Zehuan Yuan, Chun Yuan
@@ -137,7 +136,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Semi-MAE: Masked Autoencoders for Semi-supervised Vision Transformers](https://arxiv.org/abs/2301.01431) Haojie Yu, Kang Zhao, Xiaoming Xu
 + [MS-DINO: Efficient Distributed Training of Vision Transformer Foundation Model in Medical Domain through Masked Sampling](https://arxiv.org/abs/2301.02064) Sangjoon Park, Ik-Jae Lee, Jun Won Kim, Jong Chul Ye
 + [BEV-MAE: Bird's Eye View Masked Autoencoders for Outdoor Point Cloud Pre-training](https://arxiv.org/abs/2212.05758) Zhiwei Lin, Yongtao Wang
-
++ [Masked Image Modeling with Denoising Contrast](https://arxiv.org/abs/2205.09616) [:octocat:](https://github.com/TencentARC/ConMIM) Kun Yi, Yixiao Ge, Xiaotong Li, Shusheng Yang, Dian Li, Jianping Wu, Ying Shan, Xiaohu Qie
 
 # Audio
 + [MAE-AST: Masked Autoencoding Audio Spectrogram Transformer](https://arxiv.org/abs/2203.16691) [:octocat:](https://github.com/AlanBaade/MAE-AST-Public) Alan Baade, Puyuan Peng, David Harwath
@@ -190,9 +189,7 @@ There has been a surge of language research focused on such masking-and-predicti
 + [MHCCL: Masked Hierarchical Cluster-wise Contrastive Learning for Multivariate Time Series](https://arxiv.org/abs/2212.01141) [:octocat:](https://github.com/mqwfrog/MHCCL) Qianwen Meng, Hangwei Qian, Yong Liu, Yonghui Xu, Zhiqi Shen, Lizhen Cui
 + [GD-MAE: Generative Decoder for MAE Pre-training on LiDAR Point Clouds](https://arxiv.org/abs/2212.03010) [:octocat:](https://github.com/Nightmare-n/GD-MAE) Honghui Yang, Tong He, Jiaheng Liu, Hua Chen, Boxi Wu, Binbin Lin, Xiaofei He, Wanli Ouyang
 + [MAELi -- Masked Autoencoder for Large-Scale LiDAR Point Clouds](https://arxiv.org/abs/2212.07207) Georg Krispel, David Schinagl, Christian Fruhwirth-Reisinger, Horst Possegger, Horst Bischof
-
-
-
++ [Advancing Radiograph Representation Learning with Masked Record Modeling](https://openreview.net/forum?id=w-x7U26GM7j) [:octocat:](https://github.com/RL4M/MRM-pytorch) Hong-Yu Zhou, Chenyu Lian, Liansheng Wang, Yizhou Yu
 
 
 # TODO List
