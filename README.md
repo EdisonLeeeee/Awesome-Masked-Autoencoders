@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-169-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-170-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "382" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -149,6 +149,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [TinyMIM: An Empirical Study of Distilling MIM Pre-trained Models](https://arxiv.org/abs/2301.01296) [:octocat:](https://github.com/OliverRensu/TinyMIM)  Sucheng Ren, Fangyun Wei, Zheng Zhang, Han Hu
 + [ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders](https://arxiv.org/abs/2301.00808) [:octocat:](https://github.com/facebookresearch/ConvNeXt-V2) Sanghyun Woo, Shoubhik Debnath, Ronghang Hu, Xinlei Chen, Zhuang Liu, In So Kweon, Saining Xie
 + [Disjoint Masking with Joint Distillation for Efficient Masked Image Modeling](https://arxiv.org/abs/2301.00230) [:octocat:](https://github.com/mx-mark/DMJD) Xin Ma, Chang Liu, Chunyu Xie, Long Ye, Yafeng Deng, Xiangyang Ji
++ [Masked Siamese ConvNets: Towards an Effective Masking Strategy for General-purpose Siamese Networks](https://openreview.net/forum?id=NnHz2rU0Hjp&continueFlag=2b0f8fb67d92b54413e0a49b27b9c7f0) Li Jing, Jiachen Zhu, Yann LeCun
 
 
 
