@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-170-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-174-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "382" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -136,6 +136,8 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [MS-DINO: Efficient Distributed Training of Vision Transformer Foundation Model in Medical Domain through Masked Sampling](https://arxiv.org/abs/2301.02064) Sangjoon Park, Ik-Jae Lee, Jun Won Kim, Jong Chul Ye
 + [BEV-MAE: Bird's Eye View Masked Autoencoders for Outdoor Point Cloud Pre-training](https://arxiv.org/abs/2212.05758) Zhiwei Lin, Yongtao Wang
 + [Masked Image Modeling with Denoising Contrast](https://arxiv.org/abs/2205.09616) [:octocat:](https://github.com/TencentARC/ConMIM) Kun Yi, Yixiao Ge, Xiaotong Li, Shusheng Yang, Dian Li, Jianping Wu, Ying Shan, Xiaohu Qie
++ [Layer Grafted Pre-training: Bridging Contrastive Learning And Masked Image Modeling For Label-Efficient Representations](https://arxiv.org/abs/2302.14138) [:octocat:](https://github.com/VITA-Group/layerGraftedPretraining_ICLR23) Ziyu Jiang, Yinpeng Chen, Mengchen Liu, Dongdong Chen, Xiyang Dai, Lu Yuan, Zicheng Liu, Zhangyang Wang
++ [MaskedKD: Efficient Distillation of Vision Transformers with Masked Images](https://arxiv.org/abs/2302.10494) Seungwoo Son, Namhoon Lee, Jaeho Lee
 
 # Audio
 + [MAE-AST: Masked Autoencoding Audio Spectrogram Transformer](https://arxiv.org/abs/2203.16691) [:octocat:](https://github.com/AlanBaade/MAE-AST-Public) Alan Baade, Puyuan Peng, David Harwath
@@ -165,6 +167,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Masked Graph Auto-Encoder Constrained Graph Pooling](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_542.pdf) [:octocat:](https://github.com/liucoo/mgap) Chuang Liu, Yibing Zhan, Xueqi Ma, Dapeng Tao, Bo Du, Wenbin Hu 
 + [BatmanNet: Bi-branch Masked Graph Transformer Autoencoder for Molecular Representation](https://arxiv.org/abs/2211.13979) Zhen Wang, Zheng Feng, Yanjun Li, Bowen Li, Yongrui Wang, Chulin Sha, Min He, Xiaolin Li
 + [Jointly Learning Visual and Auditory Speech Representations from Raw Data](https://arxiv.org/abs/2212.06246) Alexandros Haliassos, Pingchuan Ma, Rodrigo Mira, Stavros Petridis, Maja Pantic
++ [S2GAE: Self-Supervised Graph Autoencoders are Generalizable Learners with Graph Masking](https://dl.acm.org/doi/abs/10.1145/3539597.3570404) [:octocat:](https://github.com/qiaoyu-tan/S2GAE) Qiqoyu Tan, Ninghao Liu, Xiao Huang, Soo-Hyun Choi, Li Li, Rui Chen, Xia Hu
 
 
 # Language (Omitted)
@@ -190,6 +193,7 @@ There has been a surge of language research focused on such masking-and-predicti
 + [GD-MAE: Generative Decoder for MAE Pre-training on LiDAR Point Clouds](https://arxiv.org/abs/2212.03010) [:octocat:](https://github.com/Nightmare-n/GD-MAE) Honghui Yang, Tong He, Jiaheng Liu, Hua Chen, Boxi Wu, Binbin Lin, Xiaofei He, Wanli Ouyang
 + [MAELi -- Masked Autoencoder for Large-Scale LiDAR Point Clouds](https://arxiv.org/abs/2212.07207) Georg Krispel, David Schinagl, Christian Fruhwirth-Reisinger, Horst Possegger, Horst Bischof
 + [Advancing Radiograph Representation Learning with Masked Record Modeling](https://openreview.net/forum?id=w-x7U26GM7j) [:octocat:](https://github.com/RL4M/MRM-pytorch) Hong-Yu Zhou, Chenyu Lian, Liansheng Wang, Yizhou Yu
++ [Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders](https://arxiv.org/abs/2212.06785) [:octocat:](https://github.com/ZrrSkywalker/I2P-MAE) Renrui Zhang, Liuhui Wang, Yu Qiao, Peng Gao, Hongsheng Li
 
 
 # TODO List
