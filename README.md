@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-174-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-175-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "382" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -138,6 +138,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Masked Image Modeling with Denoising Contrast](https://arxiv.org/abs/2205.09616) [:octocat:](https://github.com/TencentARC/ConMIM) Kun Yi, Yixiao Ge, Xiaotong Li, Shusheng Yang, Dian Li, Jianping Wu, Ying Shan, Xiaohu Qie
 + [Layer Grafted Pre-training: Bridging Contrastive Learning And Masked Image Modeling For Label-Efficient Representations](https://arxiv.org/abs/2302.14138) [:octocat:](https://github.com/VITA-Group/layerGraftedPretraining_ICLR23) Ziyu Jiang, Yinpeng Chen, Mengchen Liu, Dongdong Chen, Xiyang Dai, Lu Yuan, Zicheng Liu, Zhangyang Wang
 + [MaskedKD: Efficient Distillation of Vision Transformers with Masked Images](https://arxiv.org/abs/2302.10494) Seungwoo Son, Namhoon Lee, Jaeho Lee
++ [Generic-to-Specific Distillation of Masked Autoencoders](https://arxiv.org/abs/2302.14771) [:octocat:](https://github.com/pengzhiliang/G2SD) Wei Huang, Zhiliang Peng, Li Dong, Furu Wei, Jianbin Jiao, Qixiang Ye
 
 # Audio
 + [MAE-AST: Masked Autoencoding Audio Spectrogram Transformer](https://arxiv.org/abs/2203.16691) [:octocat:](https://github.com/AlanBaade/MAE-AST-Public) Alan Baade, Puyuan Peng, David Harwath
