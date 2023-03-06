@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-175-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-177-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "382" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -153,8 +153,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders](https://arxiv.org/abs/2301.00808) [:octocat:](https://github.com/facebookresearch/ConvNeXt-V2) Sanghyun Woo, Shoubhik Debnath, Ronghang Hu, Xinlei Chen, Zhuang Liu, In So Kweon, Saining Xie
 + [Disjoint Masking with Joint Distillation for Efficient Masked Image Modeling](https://arxiv.org/abs/2301.00230) [:octocat:](https://github.com/mx-mark/DMJD) Xin Ma, Chang Liu, Chunyu Xie, Long Ye, Yafeng Deng, Xiangyang Ji
 + [Masked Siamese ConvNets: Towards an Effective Masking Strategy for General-purpose Siamese Networks](https://openreview.net/forum?id=NnHz2rU0Hjp&continueFlag=2b0f8fb67d92b54413e0a49b27b9c7f0) Li Jing, Jiachen Zhu, Yann LeCun
-
-
++ [Efficient Masked Autoencoders with Self-Consistency](https://arxiv.org/abs/2302.14431) Zhaowen Li, Yousong Zhu, Zhiyang Chen, Wei Li, Chaoyang Zhao, Liwei Wu, Rui Zhao, Ming Tang, Jinqiao Wang
 
 
 # Graph
@@ -195,6 +194,7 @@ There has been a surge of language research focused on such masking-and-predicti
 + [MAELi -- Masked Autoencoder for Large-Scale LiDAR Point Clouds](https://arxiv.org/abs/2212.07207) Georg Krispel, David Schinagl, Christian Fruhwirth-Reisinger, Horst Possegger, Horst Bischof
 + [Advancing Radiograph Representation Learning with Masked Record Modeling](https://openreview.net/forum?id=w-x7U26GM7j) [:octocat:](https://github.com/RL4M/MRM-pytorch) Hong-Yu Zhou, Chenyu Lian, Liansheng Wang, Yizhou Yu
 + [Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders](https://arxiv.org/abs/2212.06785) [:octocat:](https://github.com/ZrrSkywalker/I2P-MAE) Renrui Zhang, Liuhui Wang, Yu Qiao, Peng Gao, Hongsheng Li
++ [FlowFormer++: Masked Cost Volume Autoencoding for Pretraining Optical Flow Estimation](https://arxiv.org/abs/2303.01237) Xiaoyu Shi, Zhaoyang Huang, Dasong Li, Manyuan Zhang, Ka Chun Cheung, Simon See, Hongwei Qin, Jifeng Dai, Hongsheng Li
 
 
 # TODO List
