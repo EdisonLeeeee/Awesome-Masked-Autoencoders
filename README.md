@@ -135,11 +135,18 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Semi-MAE: Masked Autoencoders for Semi-supervised Vision Transformers](https://arxiv.org/abs/2301.01431) Haojie Yu, Kang Zhao, Xiaoming Xu
 + [MS-DINO: Efficient Distributed Training of Vision Transformer Foundation Model in Medical Domain through Masked Sampling](https://arxiv.org/abs/2301.02064) Sangjoon Park, Ik-Jae Lee, Jun Won Kim, Jong Chul Ye
 + [BEV-MAE: Bird's Eye View Masked Autoencoders for Outdoor Point Cloud Pre-training](https://arxiv.org/abs/2212.05758) Zhiwei Lin, Yongtao Wang
++ [TinyMIM: An Empirical Study of Distilling MIM Pre-trained Models](https://arxiv.org/abs/2301.01296) [:octocat:](https://github.com/OliverRensu/TinyMIM)  Sucheng Ren, Fangyun Wei, Zheng Zhang, Han Hu
++ [ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders](https://arxiv.org/abs/2301.00808) [:octocat:](https://github.com/facebookresearch/ConvNeXt-V2) Sanghyun Woo, Shoubhik Debnath, Ronghang Hu, Xinlei Chen, Zhuang Liu, In So Kweon, Saining Xie
++ [Disjoint Masking with Joint Distillation for Efficient Masked Image Modeling](https://arxiv.org/abs/2301.00230) [:octocat:](https://github.com/mx-mark/DMJD) Xin Ma, Chang Liu, Chunyu Xie, Long Ye, Yafeng Deng, Xiangyang Ji
++ [Masked Siamese ConvNets: Towards an Effective Masking Strategy for General-purpose Siamese Networks](https://openreview.net/forum?id=NnHz2rU0Hjp&continueFlag=2b0f8fb67d92b54413e0a49b27b9c7f0) Li Jing, Jiachen Zhu, Yann LeCun
++ [Efficient Masked Autoencoders with Self-Consistency](https://arxiv.org/abs/2302.14431) Zhaowen Li, Yousong Zhu, Zhiyang Chen, Wei Li, Chaoyang Zhao, Liwei Wu, Rui Zhao, Ming Tang, Jinqiao Wang
++ [PixMIM: Rethinking Pixel Reconstruction in Masked Image Modeling](https://arxiv.org/abs/2303.02416) [:octocat:](https://github.com/open-mmlab/mmselfsup) Yuan Liu, Songyang Zhang, Jiacheng Chen, Kai Chen, Dahua Lin
++ [Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is All You Need](https://arxiv.org/abs/2302.02615) Jingyao Li, Pengguang Chen, Shaozuo Yu, Zexin He, Shu Liu, Jiaya Jia
 + [Masked Image Modeling with Denoising Contrast](https://arxiv.org/abs/2205.09616) [:octocat:](https://github.com/TencentARC/ConMIM) Kun Yi, Yixiao Ge, Xiaotong Li, Shusheng Yang, Dian Li, Jianping Wu, Ying Shan, Xiaohu Qie
 + [Layer Grafted Pre-training: Bridging Contrastive Learning And Masked Image Modeling For Label-Efficient Representations](https://arxiv.org/abs/2302.14138) [:octocat:](https://github.com/VITA-Group/layerGraftedPretraining_ICLR23) Ziyu Jiang, Yinpeng Chen, Mengchen Liu, Dongdong Chen, Xiyang Dai, Lu Yuan, Zicheng Liu, Zhangyang Wang
 + [MaskedKD: Efficient Distillation of Vision Transformers with Masked Images](https://arxiv.org/abs/2302.10494) Seungwoo Son, Namhoon Lee, Jaeho Lee
 + [Generic-to-Specific Distillation of Masked Autoencoders](https://arxiv.org/abs/2302.14771) [:octocat:](https://github.com/pengzhiliang/G2SD) Wei Huang, Zhiliang Peng, Li Dong, Furu Wei, Jianbin Jiao, Qixiang Ye
-+ [Masked Image Modeling with Local Multi-Scale Reconstruction](https://arxiv.org/abs/2303.05251) Haoqing Wang, Yehui Tang, Yunhe Wang, Jianyuan Guo, Zhi-Hong Deng, Kai Han
++ [Masked Image Modeling with Local Multi-Scale Reconstruction](https://arxiv.org/abs/2303.05251) [:octocat:](https://github.com/huawei-noah/Efficient-Computing/tree/master/Self-supervised/LocalMIM) Haoqing Wang, Yehui Tang, Yunhe Wang, Jianyuan Guo, Zhi-Hong Deng, Kai Han
 + [StrucTexTv2: Masked Visual-Textual Prediction for Document Image Pre-training](https://arxiv.org/abs/2303.00289) [:octocat:](https://github.com/PaddlePaddle/VIMER/tree/main/StrucTexT) Yuechen Yu, Yulin Li, Chengquan Zhang, Xiaoqiang Zhang, Zengyuan Guo, Xiameng Qin, Kun Yao, Junyu Han, Errui Ding, Jingdong Wang
 
 
@@ -152,13 +159,6 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Masked Spectrogram Modeling using Masked Autoencoders for Learning General-purpose Audio Representation](https://arxiv.org/abs/2204.12260) [:octocat:](https://github.com/nttcslab/msm-mae) Daisuke Niizumi, Daiki Takeuchi, Yasunori Ohishi, Noboru Harada, Kunio Kashino
 + [Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers](https://arxiv.org/abs/2212.04970) [:octocat:](https://hangz-nju-cuhk.github.io/projects/AV-CAT) Yasheng Sun, Hang Zhou, Kaisiyuan Wang, Qianyi Wu, Zhibin Hong, Jingtuo Liu, Errui Ding, Jingdong Wang, Ziwei Liu, Hideki Koike
 + [Audiovisual Masked Autoencoders](https://arxiv.org/abs/2212.05922) Mariana-Iuliana Georgescu, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab
-+ [TinyMIM: An Empirical Study of Distilling MIM Pre-trained Models](https://arxiv.org/abs/2301.01296) [:octocat:](https://github.com/OliverRensu/TinyMIM)  Sucheng Ren, Fangyun Wei, Zheng Zhang, Han Hu
-+ [ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders](https://arxiv.org/abs/2301.00808) [:octocat:](https://github.com/facebookresearch/ConvNeXt-V2) Sanghyun Woo, Shoubhik Debnath, Ronghang Hu, Xinlei Chen, Zhuang Liu, In So Kweon, Saining Xie
-+ [Disjoint Masking with Joint Distillation for Efficient Masked Image Modeling](https://arxiv.org/abs/2301.00230) [:octocat:](https://github.com/mx-mark/DMJD) Xin Ma, Chang Liu, Chunyu Xie, Long Ye, Yafeng Deng, Xiangyang Ji
-+ [Masked Siamese ConvNets: Towards an Effective Masking Strategy for General-purpose Siamese Networks](https://openreview.net/forum?id=NnHz2rU0Hjp&continueFlag=2b0f8fb67d92b54413e0a49b27b9c7f0) Li Jing, Jiachen Zhu, Yann LeCun
-+ [Efficient Masked Autoencoders with Self-Consistency](https://arxiv.org/abs/2302.14431) Zhaowen Li, Yousong Zhu, Zhiyang Chen, Wei Li, Chaoyang Zhao, Liwei Wu, Rui Zhao, Ming Tang, Jinqiao Wang
-+ [PixMIM: Rethinking Pixel Reconstruction in Masked Image Modeling](https://arxiv.org/abs/2303.02416) [:octocat:](https://github.com/open-mmlab/mmselfsup) Yuan Liu, Songyang Zhang, Jiacheng Chen, Kai Chen, Dahua Lin
-+ [Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is All You Need](https://arxiv.org/abs/2302.02615) Jingyao Li, Pengguang Chen, Shaozuo Yu, Zexin He, Shu Liu, Jiaya Jia
 
 
 # Graph
