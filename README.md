@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-181-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-186-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "382" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -148,6 +148,10 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Generic-to-Specific Distillation of Masked Autoencoders](https://arxiv.org/abs/2302.14771) [:octocat:](https://github.com/pengzhiliang/G2SD) Wei Huang, Zhiliang Peng, Li Dong, Furu Wei, Jianbin Jiao, Qixiang Ye
 + [Masked Image Modeling with Local Multi-Scale Reconstruction](https://arxiv.org/abs/2303.05251) [:octocat:](https://github.com/huawei-noah/Efficient-Computing/tree/master/Self-supervised/LocalMIM) Haoqing Wang, Yehui Tang, Yunhe Wang, Jianyuan Guo, Zhi-Hong Deng, Kai Han
 + [StrucTexTv2: Masked Visual-Textual Prediction for Document Image Pre-training](https://arxiv.org/abs/2303.00289) [:octocat:](https://github.com/PaddlePaddle/VIMER/tree/main/StrucTexT) Yuechen Yu, Yulin Li, Chengquan Zhang, Xiaoqiang Zhang, Zengyuan Guo, Xiameng Qin, Kun Yao, Junyu Han, Errui Ding, Jingdong Wang
++ [Masked Distillation with Receptive Tokens](https://arxiv.org/abs/2205.14589) [:octocat:](https://github.com/hunto/MasKD) Tao Huang, Yuan Zhang, Shan You, Fei Wang, Chen Qian, Jian Cao, Chang Xu
++ [PiMAE: Point Cloud and Image Interactive Masked Autoencoders for 3D Object Detection](https://arxiv.org/abs/2303.08129) [:octocat:](https://github.com/BLVLab/PiMAE) Anthony Chen, Kevin Zhang, Renrui Zhang, Zihan Wang, Yuheng Lu, Yandong Guo, Shanghang Zhang
++ [DeepMIM: Deep Supervision for Masked Image Modeling](https://arxiv.org/abs/2303.08817) [:octocat:](https://github.com/OliverRensu/DeepMIM) Sucheng Ren, Fangyun Wei, Samuel Albanie, Zheng Zhang, Han Hu
++ [3D Masked Autoencoding and Pseudo-labeling for Domain Adaptive Segmentation of Heterogeneous Infant Brain MRI](https://arxiv.org/abs/2303.09373) [:octocat:](https://github.com/XuzheZ/MAPSeg) Xuzhe Zhang, Yuhao Wu, Jia Guo, Jerod M. Rasmussen, Thomas G. O'Connor, Hyagriv N. Simhan, Sonja Entringer, Pathik D. Wadhwa, Claudia Buss, Cristiane S. Duarte, Andrea Jackowski, Hai Li, Jonathan Posner, Andrew F. Laine, Yun Wang
 
 
 # Audio
@@ -200,6 +204,7 @@ There has been a surge of language research focused on such masking-and-predicti
 + [Advancing Radiograph Representation Learning with Masked Record Modeling](https://openreview.net/forum?id=w-x7U26GM7j) [:octocat:](https://github.com/RL4M/MRM-pytorch) Hong-Yu Zhou, Chenyu Lian, Liansheng Wang, Yizhou Yu
 + [Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders](https://arxiv.org/abs/2212.06785) [:octocat:](https://github.com/ZrrSkywalker/I2P-MAE) Renrui Zhang, Liuhui Wang, Yu Qiao, Peng Gao, Hongsheng Li
 + [FlowFormer++: Masked Cost Volume Autoencoding for Pretraining Optical Flow Estimation](https://arxiv.org/abs/2303.01237) Xiaoyu Shi, Zhaoyang Huang, Dasong Li, Manyuan Zhang, Ka Chun Cheung, Simon See, Hongwei Qin, Jifeng Dai, Hongsheng Li
++ [Traj-MAE: Masked Autoencoders for Trajectory Prediction](https://arxiv.org/abs/2303.06697) Hao Chen, Jiaze Wang, Kun Shao, Furui Liu, Jianye Hao, Chenyong Guan, Guangyong Chen, Pheng-Ann Heng
 
 
 # TODO List
