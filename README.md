@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-186-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-188-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "382" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -152,7 +152,8 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [PiMAE: Point Cloud and Image Interactive Masked Autoencoders for 3D Object Detection](https://arxiv.org/abs/2303.08129) [:octocat:](https://github.com/BLVLab/PiMAE) Anthony Chen, Kevin Zhang, Renrui Zhang, Zihan Wang, Yuheng Lu, Yandong Guo, Shanghang Zhang
 + [DeepMIM: Deep Supervision for Masked Image Modeling](https://arxiv.org/abs/2303.08817) [:octocat:](https://github.com/OliverRensu/DeepMIM) Sucheng Ren, Fangyun Wei, Samuel Albanie, Zheng Zhang, Han Hu
 + [3D Masked Autoencoding and Pseudo-labeling for Domain Adaptive Segmentation of Heterogeneous Infant Brain MRI](https://arxiv.org/abs/2303.09373) [:octocat:](https://github.com/XuzheZ/MAPSeg) Xuzhe Zhang, Yuhao Wu, Jia Guo, Jerod M. Rasmussen, Thomas G. O'Connor, Hyagriv N. Simhan, Sonja Entringer, Pathik D. Wadhwa, Claudia Buss, Cristiane S. Duarte, Andrea Jackowski, Hai Li, Jonathan Posner, Andrew F. Laine, Yun Wang
-
++ [The effectiveness of MAE pre-pretraining for billion-scale pretraining](https://arxiv.org/abs/2303.13496) Mannat Singh, Quentin Duval, Kalyan Vasudev Alwala, Haoqi Fan, Vaibhav Aggarwal, Aaron Adcock, Armand Joulin, Piotr Dollár, Christoph Feichtenhofer, Ross Girshick, Rohit Girdhar, Ishan Misra
++ [VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking](https://arxiv.org/abs/2303.16727) Limin Wang, Bingkun Huang, Zhiyu Zhao, Zhan Tong, Yinan He, Yi Wang, Yali Wang, Yu Qiao
 
 # Audio
 + [MAE-AST: Masked Autoencoding Audio Spectrogram Transformer](https://arxiv.org/abs/2203.16691) [:octocat:](https://github.com/AlanBaade/MAE-AST-Public) Alan Baade, Puyuan Peng, David Harwath
