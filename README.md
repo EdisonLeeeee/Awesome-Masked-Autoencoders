@@ -200,7 +200,8 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [BatmanNet: Bi-branch Masked Graph Transformer Autoencoder for Molecular Representation](https://arxiv.org/abs/2211.13979) Zhen Wang, Zheng Feng, Yanjun Li, Bowen Li, Yongrui Wang, Chulin Sha, Min He, Xiaolin Li
 + [Jointly Learning Visual and Auditory Speech Representations from Raw Data](https://arxiv.org/abs/2212.06246) Alexandros Haliassos, Pingchuan Ma, Rodrigo Mira, Stavros Petridis, Maja Pantic
 + [S2GAE: Self-Supervised Graph Autoencoders are Generalizable Learners with Graph Masking](https://dl.acm.org/doi/abs/10.1145/3539597.3570404) [:octocat:](https://github.com/qiaoyu-tan/S2GAE) Qiqoyu Tan, Ninghao Liu, Xiao Huang, Soo-Hyun Choi, Li Li, Rui Chen, Xia Hu
-+ [GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner](https://arxiv.org/abs/2304.04779) [:octocat:](https://github.com/THUDM/GraphMAE2) Zhenyu Hou, Yufei He, Yukuo Cen, Xiao Liu, Yuxiao Dong, Evgeny Kharlamov, Jie Tang 
++ [GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner](https://arxiv.org/abs/2304.04779) [:octocat:](https://github.com/THUDM/GraphMAE2) Zhenyu Hou, Yufei He, Yukuo Cen, Xiao Liu, Yuxiao Dong, Evgeny Kharlamov, Jie Tang
++ [SeeGera: Self-supervised Semi-implicit Graph Variational Auto-encoders with Masking](https://arxiv.org/abs/2301.12458) [:octocat:](https://github.com/SeeGera/SeeGera) Xiang Li, Tiandi Ye, Caihua Shan, Dongsheng Li, Ming Gao
 
 
 
