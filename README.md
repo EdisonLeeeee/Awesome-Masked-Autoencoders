@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-210-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-211-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "382" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -202,6 +202,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [S2GAE: Self-Supervised Graph Autoencoders are Generalizable Learners with Graph Masking](https://dl.acm.org/doi/abs/10.1145/3539597.3570404) [:octocat:](https://github.com/qiaoyu-tan/S2GAE) Qiqoyu Tan, Ninghao Liu, Xiao Huang, Soo-Hyun Choi, Li Li, Rui Chen, Xia Hu
 + [GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner](https://arxiv.org/abs/2304.04779) [:octocat:](https://github.com/THUDM/GraphMAE2) Zhenyu Hou, Yufei He, Yukuo Cen, Xiao Liu, Yuxiao Dong, Evgeny Kharlamov, Jie Tang
 + [SeeGera: Self-supervised Semi-implicit Graph Variational Auto-encoders with Masking](https://arxiv.org/abs/2301.12458) [:octocat:](https://github.com/SeeGera/SeeGera) Xiang Li, Tiandi Ye, Caihua Shan, Dongsheng Li, Ming Gao
++ [GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction](https://arxiv.org/abs/2308.09663) [:octocat:](https://github.com/sycny/gigamae) Yucheng Shi, Yushun Dong, Qiaoyu Tan, Jundong Li, Ninghao Liu
 
 
 
