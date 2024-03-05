@@ -198,6 +198,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner](https://arxiv.org/abs/2304.04779) [:octocat:](https://github.com/THUDM/GraphMAE2) Zhenyu Hou, Yufei He, Yukuo Cen, Xiao Liu, Yuxiao Dong, Evgeny Kharlamov, Jie Tang
 + [SeeGera: Self-supervised Semi-implicit Graph Variational Auto-encoders with Masking](https://arxiv.org/abs/2301.12458) [:octocat:](https://github.com/SeeGera/SeeGera) Xiang Li, Tiandi Ye, Caihua Shan, Dongsheng Li, Ming Gao
 + [GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction](https://arxiv.org/abs/2308.09663) [:octocat:](https://github.com/sycny/gigamae) Yucheng Shi, Yushun Dong, Qiaoyu Tan, Jundong Li, Ninghao Liu
++ [Rethinking Graph Masked Autoencoders through Alignment and Uniformity](https://www.arxiv.org/abs/2402.07225) [:octocat:](https://github.com/AzureLeon1/AUG-MAE) Liang Wang, Xiang Tao, Qiang Liu, Shu Wu, Liang Wang
 
 
 
