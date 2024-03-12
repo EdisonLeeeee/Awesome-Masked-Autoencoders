@@ -225,6 +225,7 @@ There has been a surge of language research focused on such masking-and-predicti
 
 
 # Miscellaneous
++ [Self-Guided Masked Autoencoders for Domain-Agnostic Self-Supervised Learning](https://arxiv.org/abs/2402.14789) [:octocat:](https://github.com/Johnathan-Xie/sma) Johnathan Xie, Yoonho Lee, Annie S. Chen, Chelsea Finn
 + [Masked Bayesian Neural Networks : Computation and Optimality](https://arxiv.org/abs/2206.00853) Insung Kong, Dongyoon Yang, Jongjin Lee, Ilsang Ohn, Yongdai Kim
 + [How to Understand Masked Autoencoders](https://arxiv.org/abs/2202.03670) Shuhao Cao, Peng Xu, David A. Clifton
 + [Towards Understanding Why Mask-Reconstruction Pretraining Helps in Downstream Tasks](https://arxiv.org/abs/2206.03826) Jiachun Pan, Pan Zhou, Shuicheng Yan
