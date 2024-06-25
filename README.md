@@ -1,5 +1,5 @@
 # Awesome Masked Autoencoders
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-258-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-274-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "382" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
 
@@ -172,21 +172,31 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Exploring Effective Mask Sampling Modeling for Neural Image Compression](https://arxiv.org/abs/2306.05704) Lin Liu, Mingming Zhao, Shanxin Yuan, Wenlong Lyu, Wengang Zhou, Houqiang Li, Yanfeng Wang, Qi Tian
 + [Automatic Image Blending Algorithm Based on SAM and DINO](https://arxiv.org/abs/2306.05382) Haochen Xue, Mingyu Jin, Chong Zhang, Yuxuan Huang, Qian Weng, Xiaobo Jin
 + [A Survey on Masked Autoencoder for Visual Self-supervised Learning](https://www.ijcai.org/proceedings/2023/0762.pdf) Chaoning Zhang, Chenshuang Zhang, Junha Song, John Seon Keun Yi, In So Kweon
-+ [An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels](https://arxiv.org/abs/2406.09415) Duy-Kien Nguyen, Mahmoud Assran, Unnat Jain, Martin R. Oswald, Cees G. M. Snoek, Xinlei Chen
-+ [CorrMAE: Pre-training Correspondence Transformers with Masked Autoencoder](https://arxiv.org/abs/2406.05773) Tangfei Liao, Xiaoqin Zhang, Guobao Xiao, Min Li, Tao Wang, Mang Ye
-+ [MaskMatch: Boosting Semi-Supervised Learning Through Mask Autoencoder-Driven Feature Learning](https://arxiv.org/abs/2405.06227) Wenjin Zhang, Keyi Li, Sen Yang, Chenyang Gao, Wanzhao Yang, Sifan Yuan, Ivan Marsic
-+ [MiM: Mask in Mask Self-Supervised Pre-Training for 3D Medical Image Analysis](https://arxiv.org/abs/2404.15580) Jiaxin Zhuang, Linshan Wu, Qiong Wang, Varut Vardhanabhuti, Lin Luo, Hao Chen
-+ [Label-free Anomaly Detection in Aerial Agricultural Images with Masked Image Modeling](https://arxiv.org/abs/2404.08931) Sambal Shikhar, Anupam Sobti
-+ [DailyMAE: Towards Pretraining Masked Autoencoders in One Day](https://arxiv.org/abs/2404.00509) Jiantao Wu, Shentong Mo, Sara Atito, Zhenhua Feng, Josef Kittler, Muhammad Awais
-+ [FocusMAE: Gallbladder Cancer Detection from Ultrasound Videos with Focused Masked Autoencoders](https://arxiv.org/abs/2403.08848) Soumen Basu, Mayuna Gupta, Chetan Madan, Pankaj Gupta, Chetan Arora
-+ [Masked Capsule Autoencoders](https://arxiv.org/abs/2403.04724) Miles Everett, Mingjun Zhong, Georgios Leontidis
-+ [VideoMAC: Video Masked Autoencoders Meet ConvNets](https://arxiv.org/abs/2402.19082) Gensheng Pei, Tao Chen, Xiruo Jiang, Huafeng Liu, Zeren Sun, Yazhou Yao
-+ [Attention-Guided Masked Autoencoders For Learning Image Representations](https://arxiv.org/abs/2402.15172) Leon Sick, Dominik Engel, Pedro Hermosilla, Timo Ropinski
-+ [VideoPrism: A Foundational Visual Encoder for Video Understanding](https://arxiv.org/abs/2402.13217) Long Zhao, Nitesh B. Gundavarapu, Liangzhe Yuan, Hao Zhou, Shen Yan, Jennifer J. Sun, Luke Friedman, Rui Qian, Tobias Weyand, Yue Zhao, Rachel Hornung, Florian Schroff, Ming-Hsuan Yang, David A. Ross, Huisheng Wang, Hartwig Adam, Mikhail Sirotenko, Ting Liu, Boqing Gong
-+ [Rethinking Patch Dependence for Masked Autoencoders](https://arxiv.org/abs/2401.14391) [🌐](https://crossmae.github.io) Letian Fu, Long Lian, Renhao Wang, Baifeng Shi, Xudong Wang, Adam Yala, Trevor Darrell, Alexei A. Efros, Ken Goldberg
-+ [MaskCRT: Masked Conditional Residual Transformer for Learned Video Compression](https://arxiv.org/abs/2312.15829) Yi-Hsin Chen, Hong-Sheng Xie, Cheng-Wei Chen, Zong-Lin Gao, Wen-Hsiao Peng, Martin Benjak, Jörn Ostermann
-+ [Continual-MAE: Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation](https://arxiv.org/abs/2312.12480) Jiaming Liu, Ran Xu, Senqiao Yang, Renrui Zhang, Qizhe Zhang, Zehui Chen, Yandong Guo, Shanghang Zhang
++ [MGMAE: Motion Guided Masking for Video Masked Autoencoding](https://arxiv.org/abs/2308.10794)  [:octocat:](https://github.com/MCG-NJU/MGMAE) Bingkun Huang, Zhiyu Zhao, Guozhen Zhang, Yu Qiao, Limin Wang+ [Masked Autoencoders are Efficient Class Incremental Learners](https://arxiv.org/abs/2308.12510) [:octocat:](https://github.com/scok30/MAE-CIL) Jiang-Tian Zhai, Xialei Liu, Andrew D. Bagdanov, Ke Li, Ming-Ming Cheng
++ [Motion-Guided Masking for Spatiotemporal Representation Learning](https://arxiv.org/abs/2308.12962) David Fan, Jue Wang, Shuai Liao, Yi Zhu, Vimal Bhat, Hector Santos-Villalobos, Rohith MV, Xinyu Li
++ [CL-MAE: Curriculum-Learned Masked Autoencoders](https://arxiv.org/abs/2308.16572) [:octocat:](https://github.com/ristea/cl-mae) Neelu Madan, Nicolae-Catalin Ristea, Kamal Nasrollahi, Thomas B. Moeslund, Radu Tudor Ionescu
++ [Contrastive Feature Masking Open-Vocabulary Vision Transformer](https://arxiv.org/abs/2309.00775) Dahun Kim, Anelia Angelova, Weicheng Kuo
++ [Masked Autoencoders are Scalable Learners of Cellular Morphology](https://arxiv.org/abs/2309.16064) [:octocat:](https://github.com/recursionpharma/maes_microscopy) Oren Kraus, Kian Kenyon-Dean, Saber Saberian, Maryam Fallah, Peter McLean, Jess Leung, Vasudev Sharma, Ayla Khan, Jia Balakrishnan, Safiye Celik, Maciej Sypetkowski, Chi Vicky Cheng, Kristen Morse, Maureen Makes, Ben Mabey, Berton Earnshaw
++ [Diffusion Models as Masked Audio-Video Learners](https://arxiv.org/abs/2310.03937) Elvis Nunez, Yanzi Jin, Mohammad Rastegari, Sachin Mehta, Maxwell Horton
++ [Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders](https://arxiv.org/abs/2310.20704) [:octocat:](https://github.com/dominickrei/Limited-data-vits) Srijan Das, Tanmay Jain, Dominick Reilly, Pranav Balaji, Soumyajit Karmakar, Shyam Marjit, Xiang Li, Abhijit Das, Michael S. Ryoo
++ [Concatenated Masked Autoencoders as Spatial-Temporal Learner](https://arxiv.org/abs/2311.00961) [:octocat:](https://github.com/minhoooo1/CatMAE) Zhouqiang Jiang, Bowen Wang, Tong Xiang, Zhaofeng Niu, Hong Tang, Guangshun Li, Liangzhi Li
++ [Asymmetric Masked Distillation for Pre-Training Small Foundation Models](https://arxiv.org/abs/2311.03149) [:octocat:](https://github.com/MCG-NJU/AMD) Zhiyu Zhao, Bingkun Huang, Sen Xing, Gangshan Wu, Yu Qiao, Limin Wang
 + [MIMIR: Masked Image Modeling for Mutual Information-based Adversarial Robustness](https://arxiv.org/abs/2312.04960) Xiaoyun Xu, Shujian Yu, Jingzheng Wu, Stjepan Picek
++ [Continual-MAE: Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation](https://arxiv.org/abs/2312.12480) Jiaming Liu, Ran Xu, Senqiao Yang, Renrui Zhang, Qizhe Zhang, Zehui Chen, Yandong Guo, Shanghang Zhang
++ [MaskCRT: Masked Conditional Residual Transformer for Learned Video Compression](https://arxiv.org/abs/2312.15829) Yi-Hsin Chen, Hong-Sheng Xie, Cheng-Wei Chen, Zong-Lin Gao, Wen-Hsiao Peng, Martin Benjak, Jörn Ostermann
++ [Rethinking Patch Dependence for Masked Autoencoders](https://arxiv.org/abs/2401.14391) [🌐](https://crossmae.github.io) Letian Fu, Long Lian, Renhao Wang, Baifeng Shi, Xudong Wang, Adam Yala, Trevor Darrell, Alexei A. Efros, Ken Goldberg
++ [VideoPrism: A Foundational Visual Encoder for Video Understanding](https://arxiv.org/abs/2402.13217) Long Zhao, Nitesh B. Gundavarapu, Liangzhe Yuan, Hao Zhou, Shen Yan, Jennifer J. Sun, Luke Friedman, Rui Qian, Tobias Weyand, Yue Zhao, Rachel Hornung, Florian Schroff, Ming-Hsuan Yang, David A. Ross, Huisheng Wang, Hartwig Adam, Mikhail Sirotenko, Ting Liu, Boqing Gong
++ [Attention-Guided Masked Autoencoders For Learning Image Representations](https://arxiv.org/abs/2402.15172) Leon Sick, Dominik Engel, Pedro Hermosilla, Timo Ropinski
++ [VideoMAC: Video Masked Autoencoders Meet ConvNets](https://arxiv.org/abs/2402.19082) Gensheng Pei, Tao Chen, Xiruo Jiang, Huafeng Liu, Zeren Sun, Yazhou Yao
++ [Masked Capsule Autoencoders](https://arxiv.org/abs/2403.04724) Miles Everett, Mingjun Zhong, Georgios Leontidis
++ [FocusMAE: Gallbladder Cancer Detection from Ultrasound Videos with Focused Masked Autoencoders](https://arxiv.org/abs/2403.08848) Soumen Basu, Mayuna Gupta, Chetan Madan, Pankaj Gupta, Chetan Arora
++ [DailyMAE: Towards Pretraining Masked Autoencoders in One Day](https://arxiv.org/abs/2404.00509) Jiantao Wu, Shentong Mo, Sara Atito, Zhenhua Feng, Josef Kittler, Muhammad Awais
++ [Label-free Anomaly Detection in Aerial Agricultural Images with Masked Image Modeling](https://arxiv.org/abs/2404.08931) Sambal Shikhar, Anupam Sobti
++ [MiM: Mask in Mask Self-Supervised Pre-Training for 3D Medical Image Analysis](https://arxiv.org/abs/2404.15580) Jiaxin Zhuang, Linshan Wu, Qiong Wang, Varut Vardhanabhuti, Lin Luo, Hao Chen
++ [MaskMatch: Boosting Semi-Supervised Learning Through Mask Autoencoder-Driven Feature Learning](https://arxiv.org/abs/2405.06227) Wenjin Zhang, Keyi Li, Sen Yang, Chenyang Gao, Wanzhao Yang, Sifan Yuan, Ivan Marsic
++ [CorrMAE: Pre-training Correspondence Transformers with Masked Autoencoder](https://arxiv.org/abs/2406.05773) Tangfei Liao, Xiaoqin Zhang, Guobao Xiao, Min Li, Tao Wang, Mang Ye
++ [An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels](https://arxiv.org/abs/2406.09415) Duy-Kien Nguyen, Mahmoud Assran, Unnat Jain, Martin R. Oswald, Cees G. M. Snoek, Xinlei Chen
+
 
 
 
@@ -199,10 +209,10 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Masked Spectrogram Modeling using Masked Autoencoders for Learning General-purpose Audio Representation](https://arxiv.org/abs/2204.12260) [:octocat:](https://github.com/nttcslab/msm-mae) Daisuke Niizumi, Daiki Takeuchi, Yasunori Ohishi, Noboru Harada, Kunio Kashino
 + [Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers](https://arxiv.org/abs/2212.04970) [🌐](https://hangz-nju-cuhk.github.io/projects/AV-CAT) Yasheng Sun, Hang Zhou, Kaisiyuan Wang, Qianyi Wu, Zhibin Hong, Jingtuo Liu, Errui Ding, Jingdong Wang, Ziwei Liu, Hideki Koike
 + [Audiovisual Masked Autoencoders](https://arxiv.org/abs/2212.05922) Mariana-Iuliana Georgescu, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab
++ [HiCMAE: Hierarchical Contrastive Masked Autoencoder for Self-Supervised Audio-Visual Emotion Recognition](https://arxiv.org/abs/2401.05698) Licai Sun, Zheng Lian, Bin Liu, Jianhua Tao
 + [Scaling up masked audio encoder learning for general audio classification](https://arxiv.org/abs/2406.06992) Heinrich Dinkel, Zhiyong Yan, Yongqing Wang, Junbo Zhang, Yujun Wang, Bin Wang
 + [Genuine-Focused Learning using Mask AutoEncoder for Generalized Fake Audio Detection](https://arxiv.org/abs/2406.03247) Xiaopeng Wang, Ruibo Fu, Zhengqi Wen, Zhiyong Wang, Yuankun Xie, Yukun Liu, Jianhua Tao, Xuefei Liu, Yongwei Li, Xin Qi, Yi Lu, Shuchen Shi
 + [AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection](https://arxiv.org/abs/2406.02951) Trevine Oorloff, Surya Koppisetti, Nicolò Bonettini, Divyaraj Solanki, Ben Colman, Yaser Yacoob, Ali Shahriyari, Gaurav Bharaj
-+ [HiCMAE: Hierarchical Contrastive Masked Autoencoder for Self-Supervised Audio-Visual Emotion Recognition](https://arxiv.org/abs/2401.05698) Licai Sun, Zheng Lian, Bin Liu, Jianhua Tao
 
 
 
@@ -221,17 +231,19 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner](https://arxiv.org/abs/2304.04779) [:octocat:](https://github.com/THUDM/GraphMAE2) Zhenyu Hou, Yufei He, Yukuo Cen, Xiao Liu, Yuxiao Dong, Evgeny Kharlamov, Jie Tang
 + [SeeGera: Self-supervised Semi-implicit Graph Variational Auto-encoders with Masking](https://arxiv.org/abs/2301.12458) [:octocat:](https://github.com/SeeGera/SeeGera) Xiang Li, Tiandi Ye, Caihua Shan, Dongsheng Li, Ming Gao
 + [GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction](https://arxiv.org/abs/2308.09663) [:octocat:](https://github.com/sycny/gigamae) Yucheng Shi, Yushun Dong, Qiaoyu Tan, Jundong Li, Ninghao Liu
-+ [Rethinking Graph Masked Autoencoders through Alignment and Uniformity](https://www.arxiv.org/abs/2402.07225) [:octocat:](https://github.com/AzureLeon1/AUG-MAE) Liang Wang, Xiang Tao, Qiang Liu, Shu Wu, Liang Wang
-+ [Where to Mask: Structure-Guided Masking for Graph Masked Autoencoders](https://arxiv.org/abs/2404.15806) Chuang Liu, Yuyao Wang, Yibing Zhan, Xueqi Ma, Dapeng Tao, Jia Wu, Wenbin Hu
-+ [Generative-Enhanced Heterogeneous Graph Contrastive Learning](https://arxiv.org/abs/2404.02810) Yu Wang, Lei Sang, Yi Zhang, Yiwen Zhang
-+ [Efficient Image Pre-Training with Siamese Cropped Masked Autoencoders](https://arxiv.org/abs/2403.17823) Alexandre Eymaël, Renaud Vandeghen, Anthony Cioppa, Silvio Giancola, Bernard Ghanem, Marc Van Droogenbroeck
-+ [Exploring Task Unification in Graph Representation Learning via Generative Approach](https://arxiv.org/abs/2403.14340) Yulan Hu, Sheng Ouyang, Zhirui Yang, Ge Chen, Junchen Wan, Xiao Wang, Yong Liu
-+ [SELECTOR: Heterogeneous graph network with convolutional masked autoencoder for multimodal robust prediction of cancer survival](https://arxiv.org/abs/2403.09290) Liangrui Pan, Yijun Peng, Yan Li, Xiang Wang, Wenjuan Liu, Liwen Xu, Qingchun Liang, Shaoliang Peng
-+ [UGMAE: A Unified Framework for Graph Masked Autoencoders](https://arxiv.org/abs/2402.08023) Yijun Tian, Chuxu Zhang, Ziyi Kou, Zheyuan Liu, Xiangliang Zhang, Nitesh V. Chawla
-+ [Masked Graph Autoencoder with Non-discrete Bandwidths](https://arxiv.org/abs/2402.03814) Ziwen Zhao, Yuhua Li, Yixiong Zou, Jiliang Tang, Ruixuan Li
-+ [Graph Transformer GANs with Graph Masked Modeling for Architectural Layout Generation](https://arxiv.org/abs/2401.07721) Hao Tang, Ling Shao, Nicu Sebe, Luc Van Gool
-+ [Masked AutoEncoder for Graph Clustering without Pre-defined Cluster Number k](https://arxiv.org/abs/2401.04741) Yuanchi Ma, Hui He, Zhongxiang Lei, Zhendong Niu
++ [Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules](https://arxiv.org/abs/2310.14753) [:octocat:](https://github.com/syr-cn/SimSGT) Zhiyuan Liu, Yaorui Shi, An Zhang, Enzhi Zhang, Kenji Kawaguchi, Xiang Wang, Tat-Seng Chua+ [GPT-ST: Generative Pre-Training of Spatio-Temporal Graph Neural Networks](https://arxiv.org/abs/2311.04245) [:octocat:](https://github.com/HKUDS/GPT-ST) Zhonghang Li, Lianghao Xia, Yong Xu, Chao Huang
 + [GAMC: An Unsupervised Method for Fake News Detection using Graph Autoencoder with Masking](https://arxiv.org/abs/2312.05739) Shu Yin, Chao Gao, Zhen Wang
++ [Masked AutoEncoder for Graph Clustering without Pre-defined Cluster Number k](https://arxiv.org/abs/2401.04741) Yuanchi Ma, Hui He, Zhongxiang Lei, Zhendong Niu
++ [Graph Transformer GANs with Graph Masked Modeling for Architectural Layout Generation](https://arxiv.org/abs/2401.07721) Hao Tang, Ling Shao, Nicu Sebe, Luc Van Gool
++ [Masked Graph Autoencoder with Non-discrete Bandwidths](https://arxiv.org/abs/2402.03814) Ziwen Zhao, Yuhua Li, Yixiong Zou, Jiliang Tang, Ruixuan Li
++ [Rethinking Graph Masked Autoencoders through Alignment and Uniformity](https://www.arxiv.org/abs/2402.07225) [:octocat:](https://github.com/AzureLeon1/AUG-MAE) Liang Wang, Xiang Tao, Qiang Liu, Shu Wu, Liang Wang
++ [UGMAE: A Unified Framework for Graph Masked Autoencoders](https://arxiv.org/abs/2402.08023) Yijun Tian, Chuxu Zhang, Ziyi Kou, Zheyuan Liu, Xiangliang Zhang, Nitesh V. Chawla
++ [SELECTOR: Heterogeneous graph network with convolutional masked autoencoder for multimodal robust prediction of cancer survival](https://arxiv.org/abs/2403.09290) Liangrui Pan, Yijun Peng, Yan Li, Xiang Wang, Wenjuan Liu, Liwen Xu, Qingchun Liang, Shaoliang Peng
++ [Exploring Task Unification in Graph Representation Learning via Generative Approach](https://arxiv.org/abs/2403.14340) Yulan Hu, Sheng Ouyang, Zhirui Yang, Ge Chen, Junchen Wan, Xiao Wang, Yong Liu
++ [Efficient Image Pre-Training with Siamese Cropped Masked Autoencoders](https://arxiv.org/abs/2403.17823) Alexandre Eymaël, Renaud Vandeghen, Anthony Cioppa, Silvio Giancola, Bernard Ghanem, Marc Van Droogenbroeck
++ [Generative-Enhanced Heterogeneous Graph Contrastive Learning](https://arxiv.org/abs/2404.02810) Yu Wang, Lei Sang, Yi Zhang, Yiwen Zhang
++ [Where to Mask: Structure-Guided Masking for Graph Masked Autoencoders](https://arxiv.org/abs/2404.15806) Chuang Liu, Yuyao Wang, Yibing Zhan, Xueqi Ma, Dapeng Tao, Jia Wu, Wenbin Hu
+
 
 
 
@@ -249,9 +261,10 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Masked Autoencoders for Point Cloud Self-Supervised Learning](https://arxiv.org/abs/2203.06604) [:octocat:](https://github.com/Pang-Yatian/Point-MAE) Yatian Pang, Wenxiao Wang, Francis E.H. Tay, Wei Liu, Yonghong Tian, Li Yuan
 + [Masked Autoencoder for Self-Supervised Pre-Training on Lidar Point Clouds](https://arxiv.org/abs/2207.00531) [:octocat:](https://github.com/georghess/voxel-mae) Georg Hess, Johan Jaxing, Elias Svensson, David Hagerman, Christoffer Petersson, Lennart Svensson
 + [Joint-MAE: 2D-3D Joint Masked Autoencoders for 3D Point Cloud Pre-training](https://arxiv.org/abs/2302.14007) Ziyu Guo, Renrui Zhang, Longtian Qiu, Xianzhi Li, Pheng-Ann Heng
-+ [PAME: Self-Supervised Masked Autoencoder for No-Reference Point Cloud Quality Assessment](https://arxiv.org/abs/2403.10061) Ziyu Shan, Yujie Zhang, Qi Yang, Haichen Yang, Yiling Xu, Shan Liu
++ [Point Cloud Self-supervised Learning via 3D to Multi-view Masked Autoencoder](https://arxiv.org/abs/2311.10887) Zhimin Chen, Yingwei Li, Longlong Jing, Liang Yang, Bing Li
 + [T-MAE: Temporal Masked Autoencoders for Point Cloud Representation Learning](https://arxiv.org/abs/2312.10217) Weijie Wei, Fatemeh Karimi Nejadasl, Theo Gevers, Martin R. Oswald
 + [DiffPMAE: Diffusion Masked Autoencoders for Point Cloud Reconstruction](https://arxiv.org/abs/2312.03298) Yanlong Li, Chamara Madarasingha, Kanchana Thilakarathna
++ [PAME: Self-Supervised Masked Autoencoder for No-Reference Point Cloud Quality Assessment](https://arxiv.org/abs/2403.10061) Ziyu Shan, Yujie Zhang, Qi Yang, Haichen Yang, Yiling Xu, Shan Liu
 
 
 
@@ -281,12 +294,15 @@ There has been a surge of language research focused on such masking-and-predicti
 + [FlowFormer++: Masked Cost Volume Autoencoding for Pretraining Optical Flow Estimation](https://arxiv.org/abs/2303.01237) Xiaoyu Shi, Zhaoyang Huang, Dasong Li, Manyuan Zhang, Ka Chun Cheung, Simon See, Hongwei Qin, Jifeng Dai, Hongsheng Li
 + [Traj-MAE: Masked Autoencoders for Trajectory Prediction](https://arxiv.org/abs/2303.06697) Hao Chen, Jiaze Wang, Kun Shao, Furui Liu, Jianye Hao, Chenyong Guan, Guangyong Chen, Pheng-Ann Heng
 + [Self-supervised Pre-training with Masked Shape Prediction for 3D Scene Understanding](https://arxiv.org/abs/2305.05026) Li Jiang, Zetong Yang, Shaoshuai Shi, Vladislav Golyanik, Dengxin Dai, Bernt Schiele
-+ [SCE-MAE: Selective Correspondence Enhancement with Masked Autoencoder for Self-Supervised Landmark Estimation](https://arxiv.org/abs/2405.18322) Kejia Yin, Varshanth R. Rao, Ruowei Jiang, Xudong Liu, Parham Aarabi, David B. Lindell
-+ [NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields](https://arxiv.org/abs/2404.01300) [🌐](https://nerf-mae.github.io/) Muhammad Zubair Irshad, Sergey Zakahrov, Vitor Guizilini, Adrien Gaidon, Zsolt Kira, Rares Ambrus
-+ [Detecting Generative Parroting through Overfitting Masked Autoencoders](https://arxiv.org/abs/2403.19050) Saeid Asgari Taghanaki, Joseph Lambourne
-+ [Masked Autoencoders are PDE Learners](https://arxiv.org/abs/2403.17728) Anthony Zhou, Amir Barati Farimani
-+ [Technical Report: Masked Skeleton Sequence Modeling for Learning Larval Zebrafish Behavior Latent Embeddings](https://arxiv.org/abs/2403.15693) Lanxin Xu, Shuo Wang
-+ [Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection](https://arxiv.org/abs/2403.11667) Julia Wolleb, Florentin Bieder, Paul Friedrich, Peter Zhang, Alicia Durrer, Philippe C. Cattin
-+ [T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory](https://arxiv.org/abs/2403.10052) Daehee Park, Jaeseok Jeong, Sung-Hoon Yoon, Jaewoo Jeong, Kuk-Jin Yoon
++ [ReMasker: Imputing Tabular Data with Masked Autoencoding](https://arxiv.org/abs/2309.13793) Tianyu Du, Luca Melis, Ting Wang+ [CROMA: Remote Sensing Representations with Contrastive Radar-Optical Masked Autoencoders](https://arxiv.org/abs/2311.00566) Anthony Fuller, Koreen Millard, James R. Green
++ [Masked Autoencoders Are Robust Neural Architecture Search Learners](https://arxiv.org/abs/2311.12086) Yiming Hu, Xiangxiang Chu, Bo Zhang
 + [Self-Guided Masked Autoencoders for Domain-Agnostic Self-Supervised Learning](https://arxiv.org/abs/2402.14789) Johnathan Xie, Yoonho Lee, Annie S. Chen, Chelsea Finn
++ [T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory](https://arxiv.org/abs/2403.10052) Daehee Park, Jaeseok Jeong, Sung-Hoon Yoon, Jaewoo Jeong, Kuk-Jin Yoon
++ [Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection](https://arxiv.org/abs/2403.11667) Julia Wolleb, Florentin Bieder, Paul Friedrich, Peter Zhang, Alicia Durrer, Philippe C. Cattin
++ [Technical Report: Masked Skeleton Sequence Modeling for Learning Larval Zebrafish Behavior Latent Embeddings](https://arxiv.org/abs/2403.15693) Lanxin Xu, Shuo Wang
++ [Masked Autoencoders are PDE Learners](https://arxiv.org/abs/2403.17728) Anthony Zhou, Amir Barati Farimani
++ [Detecting Generative Parroting through Overfitting Masked Autoencoders](https://arxiv.org/abs/2403.19050) Saeid Asgari Taghanaki, Joseph Lambourne
++ [NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields](https://arxiv.org/abs/2404.01300) [🌐](https://nerf-mae.github.io/) Muhammad Zubair Irshad, Sergey Zakahrov, Vitor Guizilini, Adrien Gaidon, Zsolt Kira, Rares Ambrus
++ [SCE-MAE: Selective Correspondence Enhancement with Masked Autoencoder for Self-Supervised Landmark Estimation](https://arxiv.org/abs/2405.18322) Kejia Yin, Varshanth R. Rao, Ruowei Jiang, Xudong Liu, Parham Aarabi, David B. Lindell
+
 
