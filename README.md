@@ -8,6 +8,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 
 > *:octocat: code link, 🌐 project page
 
+
 # Vision
 + [🔥Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) [:octocat:](https://github.com/FlyEgle/MAE-pytorch) [:octocat:](https://github.com/pengzhiliang/MAE-pytorch) Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollár, Ross Girshick
 + [🔥SimMIM: A Simple Framework for Masked Image Modeling](https://arxiv.org/abs/2111.09886) [:octocat:](https://github.com/microsoft/SimMIM) Zhenda Xie, Zheng Zhang, Yue Cao, Yutong Lin, Jianmin Bao, Zhuliang Yao, Qi Dai, Han Hu
@@ -182,7 +183,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [VideoMAC: Video Masked Autoencoders Meet ConvNets](https://arxiv.org/abs/2402.19082) Gensheng Pei, Tao Chen, Xiruo Jiang, Huafeng Liu, Zeren Sun, Yazhou Yao
 + [Attention-Guided Masked Autoencoders For Learning Image Representations](https://arxiv.org/abs/2402.15172) Leon Sick, Dominik Engel, Pedro Hermosilla, Timo Ropinski
 + [VideoPrism: A Foundational Visual Encoder for Video Understanding](https://arxiv.org/abs/2402.13217) Long Zhao, Nitesh B. Gundavarapu, Liangzhe Yuan, Hao Zhou, Shen Yan, Jennifer J. Sun, Luke Friedman, Rui Qian, Tobias Weyand, Yue Zhao, Rachel Hornung, Florian Schroff, Ming-Hsuan Yang, David A. Ross, Huisheng Wang, Hartwig Adam, Mikhail Sirotenko, Ting Liu, Boqing Gong
-+ [Rethinking Patch Dependence for Masked Autoencoders](https://arxiv.org/abs/2401.14391) [:octocat:](https://crossmae.github.io) Letian Fu, Long Lian, Renhao Wang, Baifeng Shi, Xudong Wang, Adam Yala, Trevor Darrell, Alexei A. Efros, Ken Goldberg
++ [Rethinking Patch Dependence for Masked Autoencoders](https://arxiv.org/abs/2401.14391) [🌐](https://crossmae.github.io) Letian Fu, Long Lian, Renhao Wang, Baifeng Shi, Xudong Wang, Adam Yala, Trevor Darrell, Alexei A. Efros, Ken Goldberg
 + [MaskCRT: Masked Conditional Residual Transformer for Learned Video Compression](https://arxiv.org/abs/2312.15829) Yi-Hsin Chen, Hong-Sheng Xie, Cheng-Wei Chen, Zong-Lin Gao, Wen-Hsiao Peng, Martin Benjak, Jörn Ostermann
 + [Continual-MAE: Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation](https://arxiv.org/abs/2312.12480) Jiaming Liu, Ran Xu, Senqiao Yang, Renrui Zhang, Qizhe Zhang, Zehui Chen, Yandong Guo, Shanghang Zhang
 + [MIMIR: Masked Image Modeling for Mutual Information-based Adversarial Robustness](https://arxiv.org/abs/2312.04960) Xiaoyun Xu, Shujian Yu, Jingzheng Wu, Stjepan Picek
@@ -196,7 +197,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment](https://arxiv.org/abs/2208.13628) [:octocat:](https://github.com/mshukor/ViCHA) Mustafa Shukor, Guillaume Couairon, Matthieu Cord
 + [Contrastive Audio-Visual Masked Autoencoder](https://arxiv.org/abs/2210.07839) Yuan Gong, Andrew Rouditchenko, Alexander H. Liu, David Harwath, Leonid Karlinsky, Hilde Kuehne, James Glass
 + [Masked Spectrogram Modeling using Masked Autoencoders for Learning General-purpose Audio Representation](https://arxiv.org/abs/2204.12260) [:octocat:](https://github.com/nttcslab/msm-mae) Daisuke Niizumi, Daiki Takeuchi, Yasunori Ohishi, Noboru Harada, Kunio Kashino
-+ [Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers](https://arxiv.org/abs/2212.04970) [:octocat:](https://hangz-nju-cuhk.github.io/projects/AV-CAT) Yasheng Sun, Hang Zhou, Kaisiyuan Wang, Qianyi Wu, Zhibin Hong, Jingtuo Liu, Errui Ding, Jingdong Wang, Ziwei Liu, Hideki Koike
++ [Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers](https://arxiv.org/abs/2212.04970) [🌐](https://hangz-nju-cuhk.github.io/projects/AV-CAT) Yasheng Sun, Hang Zhou, Kaisiyuan Wang, Qianyi Wu, Zhibin Hong, Jingtuo Liu, Errui Ding, Jingdong Wang, Ziwei Liu, Hideki Koike
 + [Audiovisual Masked Autoencoders](https://arxiv.org/abs/2212.05922) Mariana-Iuliana Georgescu, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab
 + [Scaling up masked audio encoder learning for general audio classification](https://arxiv.org/abs/2406.06992) Heinrich Dinkel, Zhiyong Yan, Yongqing Wang, Junbo Zhang, Yujun Wang, Bin Wang
 + [Genuine-Focused Learning using Mask AutoEncoder for Generalized Fake Audio Detection](https://arxiv.org/abs/2406.03247) Xiaopeng Wang, Ruibo Fu, Zhengqi Wen, Zhiyong Wang, Yuankun Xie, Yukun Liu, Jianhua Tao, Xuefei Liu, Yongwei Li, Xin Qi, Yi Lu, Shuchen Shi
@@ -281,7 +282,7 @@ There has been a surge of language research focused on such masking-and-predicti
 + [Traj-MAE: Masked Autoencoders for Trajectory Prediction](https://arxiv.org/abs/2303.06697) Hao Chen, Jiaze Wang, Kun Shao, Furui Liu, Jianye Hao, Chenyong Guan, Guangyong Chen, Pheng-Ann Heng
 + [Self-supervised Pre-training with Masked Shape Prediction for 3D Scene Understanding](https://arxiv.org/abs/2305.05026) Li Jiang, Zetong Yang, Shaoshuai Shi, Vladislav Golyanik, Dengxin Dai, Bernt Schiele
 + [SCE-MAE: Selective Correspondence Enhancement with Masked Autoencoder for Self-Supervised Landmark Estimation](https://arxiv.org/abs/2405.18322) Kejia Yin, Varshanth R. Rao, Ruowei Jiang, Xudong Liu, Parham Aarabi, David B. Lindell
-+ [NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields](https://arxiv.org/abs/2404.01300) [:octocat:](https://nerf-mae.github.io/) Muhammad Zubair Irshad, Sergey Zakahrov, Vitor Guizilini, Adrien Gaidon, Zsolt Kira, Rares Ambrus
++ [NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields](https://arxiv.org/abs/2404.01300) [🌐](https://nerf-mae.github.io/) Muhammad Zubair Irshad, Sergey Zakahrov, Vitor Guizilini, Adrien Gaidon, Zsolt Kira, Rares Ambrus
 + [Detecting Generative Parroting through Overfitting Masked Autoencoders](https://arxiv.org/abs/2403.19050) Saeid Asgari Taghanaki, Joseph Lambourne
 + [Masked Autoencoders are PDE Learners](https://arxiv.org/abs/2403.17728) Anthony Zhou, Amir Barati Farimani
 + [Technical Report: Masked Skeleton Sequence Modeling for Learning Larval Zebrafish Behavior Latent Embeddings](https://arxiv.org/abs/2403.15693) Lanxin Xu, Shuo Wang
