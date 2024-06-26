@@ -265,6 +265,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [T-MAE: Temporal Masked Autoencoders for Point Cloud Representation Learning](https://arxiv.org/abs/2312.10217) Weijie Wei, Fatemeh Karimi Nejadasl, Theo Gevers, Martin R. Oswald
 + [DiffPMAE: Diffusion Masked Autoencoders for Point Cloud Reconstruction](https://arxiv.org/abs/2312.03298) Yanlong Li, Chamara Madarasingha, Kanchana Thilakarathna
 + [PAME: Self-Supervised Masked Autoencoder for No-Reference Point Cloud Quality Assessment](https://arxiv.org/abs/2403.10061) Ziyu Shan, Yujie Zhang, Qi Yang, Haichen Yang, Yiling Xu, Shan Liu
++ [MaskLRF: Self-supervised Pretraining via Masked Autoencoding of Local Reference Frames for Rotation-invariant 3D Point Set Analysis](https://arxiv.org/abs/2403.00206) [:octocat:](https://github.com/takahikof/MaskLRF) Takahiko Furuya 
 
 
 
