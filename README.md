@@ -196,7 +196,7 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [MaskMatch: Boosting Semi-Supervised Learning Through Mask Autoencoder-Driven Feature Learning](https://arxiv.org/abs/2405.06227) Wenjin Zhang, Keyi Li, Sen Yang, Chenyang Gao, Wanzhao Yang, Sifan Yuan, Ivan Marsic
 + [CorrMAE: Pre-training Correspondence Transformers with Masked Autoencoder](https://arxiv.org/abs/2406.05773) Tangfei Liao, Xiaoqin Zhang, Guobao Xiao, Min Li, Tao Wang, Mang Ye
 + [An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels](https://arxiv.org/abs/2406.09415) Duy-Kien Nguyen, Mahmoud Assran, Unnat Jain, Martin R. Oswald, Cees G. M. Snoek, Xinlei Chen
-
++ [Efficient Image Pre-Training with Siamese Cropped Masked Autoencoders](https://arxiv.org/abs/2403.17823) [:octocat:](https://github.com/alexandre-eymael/CropMAE) Alexandre Eymaël, Renaud Vandeghen, Anthony Cioppa, Silvio Giancola, Bernard Ghanem, Marc Van Droogenbroeck
 
 
 
@@ -240,7 +240,6 @@ Masked Autoencoder (MAE, *Kaiming He et al.*) has renewed a surge of interest du
 + [UGMAE: A Unified Framework for Graph Masked Autoencoders](https://arxiv.org/abs/2402.08023) Yijun Tian, Chuxu Zhang, Ziyi Kou, Zheyuan Liu, Xiangliang Zhang, Nitesh V. Chawla
 + [SELECTOR: Heterogeneous graph network with convolutional masked autoencoder for multimodal robust prediction of cancer survival](https://arxiv.org/abs/2403.09290) Liangrui Pan, Yijun Peng, Yan Li, Xiang Wang, Wenjuan Liu, Liwen Xu, Qingchun Liang, Shaoliang Peng
 + [Exploring Task Unification in Graph Representation Learning via Generative Approach](https://arxiv.org/abs/2403.14340) Yulan Hu, Sheng Ouyang, Zhirui Yang, Ge Chen, Junchen Wan, Xiao Wang, Yong Liu
-+ [Efficient Image Pre-Training with Siamese Cropped Masked Autoencoders](https://arxiv.org/abs/2403.17823) Alexandre Eymaël, Renaud Vandeghen, Anthony Cioppa, Silvio Giancola, Bernard Ghanem, Marc Van Droogenbroeck
 + [Generative-Enhanced Heterogeneous Graph Contrastive Learning](https://arxiv.org/abs/2404.02810) Yu Wang, Lei Sang, Yi Zhang, Yiwen Zhang
 + [Where to Mask: Structure-Guided Masking for Graph Masked Autoencoders](https://arxiv.org/abs/2404.15806) Chuang Liu, Yuyao Wang, Yibing Zhan, Xueqi Ma, Dapeng Tao, Jia Wu, Wenbin Hu
 
